@@ -1,0 +1,91 @@
+#filterpro .option_box {
+    display: inline-block;
+    min-width: 136px;
+}
+
+#filterpro .price_limit {
+    border: 1px solid #C3C3C3;
+    padding: 5px 10px;
+    color: #4e4f51;
+    width: 60%;
+}
+#filterpro .one_filter {
+    margin-bottom: 17px;
+}
+#filterpro .price_pad {
+    padding-right: 7px;
+}
+/*#filterpro input[type=checkbox][disabled]{
+    width: 13px;
+    height:13px;
+    background-color: #FAF8F8;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+    -o-appearance:none;
+    border: 1px solid #e0dee0;
+}
+#filterpro input[type=checkbox] {
+    width: 13px;
+    height:13px;
+    background-color: #FAF8F8;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+    -o-appearance:none;
+    border: 1px solid #eeeeee;
+}*/
+#filterpro .one_filter table {
+    border-collapse: collapse;
+}
+#filterpro .ui-widget-header {
+    background: none repeat scroll 0 0 #75ab15;
+    border: 0 none;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#filterpro select {
+    width: 126px;
+}
+
+#filterpro .ui-state-hover, #filterpro .ui-state-focus, #filterpro .ui-state-active {
+    /*border: 1px solid #38B0E3;
+    background: none repeat scroll 0 0 #d9f2fc;*/
+    outline: none;
+}
+
+#filterpro .price_slider {
+    padding: 5px;
+}
+
+#filterpro .option_values {
+    padding-top: 5px;
+}
+
+#filterpro .attribute_group_name {
+    background: url("../image/filter-bullet-down.png") no-repeat scroll right center transparent;
+    cursor: pointer;
+}
+#filterpro .attribute_box {
+    margin-bottom: 10px;
+}
+#filterpro .option_name {
+    padding-bottom: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#filterpro .attribute_group_name{
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0;
+}
+
+#filterpro .hided {
+    background: url("../image/filter-bullet-up.png") no-repeat scroll right center transparent;
+    cursor: pointer;
+}
+
+.clear_filter {
+    border-bottom: 1px dashed;
+    text-decoration: none;
+    float: right;
+}

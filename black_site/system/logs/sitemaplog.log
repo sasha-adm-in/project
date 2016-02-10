@@ -1,0 +1,2409 @@
+2015-10-23 23:24:46 - start products part #0
+2015-10-23 23:24:46 - start products part#0|0
+2015-10-23 23:24:46 - feed 0|0_start
+2015-10-23 23:24:47 - count 1000
+2015-10-23 23:24:47 - feed 0|0_ready
+2015-10-23 23:24:47 - start products part#0|1000
+2015-10-23 23:24:47 - feed 0|1000_start
+2015-10-23 23:24:49 - count 1000
+2015-10-23 23:24:49 - feed 0|1000_ready
+2015-10-23 23:24:49 - start products part#0|2000
+2015-10-23 23:24:49 - feed 0|2000_start
+2015-10-23 23:24:51 - count 1000
+2015-10-23 23:24:51 - feed 0|2000_ready
+2015-10-23 23:24:51 - start products part#0|3000
+2015-10-23 23:24:51 - feed 0|3000_start
+2015-10-23 23:24:54 - count 1000
+2015-10-23 23:24:54 - feed 0|3000_ready
+2015-10-23 23:24:54 - start products part#0|4000
+2015-10-23 23:24:54 - feed 0|4000_start
+2015-10-23 23:24:57 - count 1000
+2015-10-23 23:24:57 - feed 0|4000_ready
+2015-10-23 23:24:57 - start products part#0|5000
+2015-10-23 23:24:57 - feed 0|5000_start
+2015-10-23 23:24:58 - count 375
+2015-10-23 23:24:58 - feed 0|5000_ready
+2015-10-23 23:24:58 - start products part#0|6000
+2015-10-23 23:24:58 - end product part #0
+2015-10-23 23:24:58 - sitemap_start-----------------------
+2015-10-23 23:24:58 - base_start
+2015-10-23 23:24:58 - --categories set start--
+2015-10-23 23:24:59 - --categories set end--
+2015-10-23 23:24:59 - manufacturer disabled
+2015-10-23 23:24:59 - --information set start--
+2015-10-23 23:24:59 - --information set end--
+2015-10-23 23:24:59 - base_end
+2015-10-23 23:24:59 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-23 23:24:59 - total time: 0.33320593833923
+2015-10-24 12:17:46 - start products part #0
+2015-10-24 12:17:46 - start products part#0|0
+2015-10-24 12:17:46 - feed 0|0_start
+2015-10-24 12:17:47 - count 1000
+2015-10-24 12:17:47 - feed 0|0_ready
+2015-10-24 12:17:47 - start products part#0|1000
+2015-10-24 12:17:47 - feed 0|1000_start
+2015-10-24 12:17:49 - count 1000
+2015-10-24 12:17:49 - feed 0|1000_ready
+2015-10-24 12:17:49 - start products part#0|2000
+2015-10-24 12:17:49 - feed 0|2000_start
+2015-10-24 12:17:51 - count 1000
+2015-10-24 12:17:51 - feed 0|2000_ready
+2015-10-24 12:17:51 - start products part#0|3000
+2015-10-24 12:17:51 - feed 0|3000_start
+2015-10-24 12:17:54 - count 1000
+2015-10-24 12:17:54 - feed 0|3000_ready
+2015-10-24 12:17:54 - start products part#0|4000
+2015-10-24 12:17:54 - feed 0|4000_start
+2015-10-24 12:17:57 - count 1000
+2015-10-24 12:17:57 - feed 0|4000_ready
+2015-10-24 12:17:57 - start products part#0|5000
+2015-10-24 12:17:57 - feed 0|5000_start
+2015-10-24 12:17:59 - count 375
+2015-10-24 12:17:59 - feed 0|5000_ready
+2015-10-24 12:17:59 - start products part#0|6000
+2015-10-24 12:17:59 - sitemap_start-----------------------
+2015-10-24 12:17:59 - base_start
+2015-10-24 12:17:59 - --categories set start--
+2015-10-24 12:18:00 - --categories set end--
+2015-10-24 12:18:00 - manufacturer disabled
+2015-10-24 12:18:00 - --information set start--
+2015-10-24 12:18:00 - --information set end--
+2015-10-24 12:18:00 - --information set start--
+2015-10-24 12:18:00 - --information set end--
+2015-10-24 12:18:00 - base_end
+2015-10-24 12:18:00 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 12:18:00 - total time: 0.39060091972351
+2015-10-24 12:18:01 - end product part #0
+2015-10-24 12:38:24 - start products part #0
+2015-10-24 12:38:24 - start products part#0|0
+2015-10-24 12:38:25 - feed 0|0_start
+2015-10-24 12:38:26 - count 1000
+2015-10-24 12:38:26 - feed 0|0_ready
+2015-10-24 12:38:26 - start products part#0|1000
+2015-10-24 12:38:26 - feed 0|1000_start
+2015-10-24 12:38:28 - count 1000
+2015-10-24 12:38:28 - feed 0|1000_ready
+2015-10-24 12:38:28 - start products part#0|2000
+2015-10-24 12:38:28 - feed 0|2000_start
+2015-10-24 12:38:30 - count 1000
+2015-10-24 12:38:30 - feed 0|2000_ready
+2015-10-24 12:38:30 - start products part#0|3000
+2015-10-24 12:38:30 - feed 0|3000_start
+2015-10-24 12:38:32 - count 1000
+2015-10-24 12:38:32 - feed 0|3000_ready
+2015-10-24 12:38:32 - start products part#0|4000
+2015-10-24 12:38:32 - feed 0|4000_start
+2015-10-24 12:38:37 - count 1000
+2015-10-24 12:38:37 - feed 0|4000_ready
+2015-10-24 12:38:37 - start products part#0|5000
+2015-10-24 12:38:37 - feed 0|5000_start
+2015-10-24 12:38:38 - count 375
+2015-10-24 12:38:38 - feed 0|5000_ready
+2015-10-24 12:38:38 - start products part#0|6000
+2015-10-24 12:38:39 - sitemap_start-----------------------
+2015-10-24 12:38:39 - base_start
+2015-10-24 12:38:39 - --categories set start--
+2015-10-24 12:38:39 - --categories set end--
+2015-10-24 12:38:39 - manufacturer disabled
+2015-10-24 12:38:39 - --information set start--
+2015-10-24 12:38:39 - --information set end--
+2015-10-24 12:38:39 - --information set start--
+2015-10-24 12:38:39 - --information set end--
+2015-10-24 12:38:39 - base_end
+2015-10-24 12:38:39 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 12:38:39 - total time: 0.30167388916016
+2015-10-24 12:38:39 - end product part #0
+2015-10-24 12:42:26 - start products part #0
+2015-10-24 12:42:26 - start products part#0|0
+2015-10-24 12:42:26 - feed 0|0_start
+2015-10-24 12:42:27 - count 1000
+2015-10-24 12:42:27 - feed 0|0_ready
+2015-10-24 12:42:27 - start products part#0|1000
+2015-10-24 12:42:27 - feed 0|1000_start
+2015-10-24 12:42:28 - count 1000
+2015-10-24 12:42:28 - feed 0|1000_ready
+2015-10-24 12:42:28 - start products part#0|2000
+2015-10-24 12:42:28 - feed 0|2000_start
+2015-10-24 12:42:30 - count 1000
+2015-10-24 12:42:30 - feed 0|2000_ready
+2015-10-24 12:42:30 - start products part#0|3000
+2015-10-24 12:42:30 - feed 0|3000_start
+2015-10-24 12:42:33 - count 1000
+2015-10-24 12:42:33 - feed 0|3000_ready
+2015-10-24 12:42:34 - start products part#0|4000
+2015-10-24 12:42:34 - feed 0|4000_start
+2015-10-24 12:42:37 - count 1000
+2015-10-24 12:42:37 - feed 0|4000_ready
+2015-10-24 12:42:37 - start products part#0|5000
+2015-10-24 12:42:37 - feed 0|5000_start
+2015-10-24 12:42:38 - count 375
+2015-10-24 12:42:38 - feed 0|5000_ready
+2015-10-24 12:42:38 - start products part#0|6000
+2015-10-24 12:42:38 - sitemap_start-----------------------
+2015-10-24 12:42:38 - base_start
+2015-10-24 12:42:38 - --categories set start--
+2015-10-24 12:42:39 - --categories set end--
+2015-10-24 12:42:39 - manufacturer disabled
+2015-10-24 12:42:39 - --information set start--
+2015-10-24 12:42:39 - --information set end--
+2015-10-24 12:42:39 - --information set start--
+2015-10-24 12:42:39 - --information set end--
+2015-10-24 12:42:39 - base_end
+2015-10-24 12:42:39 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 12:42:39 - total time: 0.22963213920593
+2015-10-24 12:42:39 - end product part #0
+2015-10-24 12:44:36 - start products part #0
+2015-10-24 12:44:36 - start products part#0|0
+2015-10-24 12:44:36 - feed 0|0_start
+2015-10-24 12:44:36 - count 1000
+2015-10-24 12:44:36 - feed 0|0_ready
+2015-10-24 12:44:37 - start products part#0|1000
+2015-10-24 12:44:37 - feed 0|1000_start
+2015-10-24 12:44:37 - count 1000
+2015-10-24 12:44:37 - feed 0|1000_ready
+2015-10-24 12:44:37 - start products part#0|2000
+2015-10-24 12:44:37 - feed 0|2000_start
+2015-10-24 12:44:38 - count 1000
+2015-10-24 12:44:38 - feed 0|2000_ready
+2015-10-24 12:44:38 - start products part#0|3000
+2015-10-24 12:44:38 - feed 0|3000_start
+2015-10-24 12:44:38 - count 1000
+2015-10-24 12:44:38 - feed 0|3000_ready
+2015-10-24 12:44:39 - start products part#0|4000
+2015-10-24 12:44:39 - feed 0|4000_start
+2015-10-24 12:44:39 - count 1000
+2015-10-24 12:44:39 - feed 0|4000_ready
+2015-10-24 12:44:39 - start products part#0|5000
+2015-10-24 12:44:39 - feed 0|5000_start
+2015-10-24 12:44:40 - count 375
+2015-10-24 12:44:40 - feed 0|5000_ready
+2015-10-24 12:44:40 - start products part#0|6000
+2015-10-24 12:44:40 - sitemap_start-----------------------
+2015-10-24 12:44:40 - base_start
+2015-10-24 12:44:40 - --categories set start--
+2015-10-24 12:44:40 - --categories set end--
+2015-10-24 12:44:40 - manufacturer disabled
+2015-10-24 12:44:40 - --information set start--
+2015-10-24 12:44:40 - --information set end--
+2015-10-24 12:44:40 - --information set start--
+2015-10-24 12:44:40 - --information set end--
+2015-10-24 12:44:40 - base_end
+2015-10-24 12:44:40 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 12:44:40 - total time: 0.1142909526825
+2015-10-24 12:44:40 - end product part #0
+2015-10-24 12:51:47 - start products part #0
+2015-10-24 12:51:47 - start products part#0|0
+2015-10-24 12:51:47 - feed 0|0_start
+2015-10-24 12:51:49 - count 1000
+2015-10-24 12:51:49 - feed 0|0_ready
+2015-10-24 12:51:49 - start products part#0|1000
+2015-10-24 12:51:49 - feed 0|1000_start
+2015-10-24 12:51:52 - count 1000
+2015-10-24 12:51:52 - feed 0|1000_ready
+2015-10-24 12:51:52 - start products part#0|2000
+2015-10-24 12:51:52 - feed 0|2000_start
+2015-10-24 12:51:54 - count 1000
+2015-10-24 12:51:54 - feed 0|2000_ready
+2015-10-24 12:51:54 - start products part#0|3000
+2015-10-24 12:51:54 - feed 0|3000_start
+2015-10-24 12:51:57 - count 1000
+2015-10-24 12:51:57 - feed 0|3000_ready
+2015-10-24 12:51:57 - start products part#0|4000
+2015-10-24 12:51:57 - feed 0|4000_start
+2015-10-24 12:52:00 - count 1000
+2015-10-24 12:52:00 - feed 0|4000_ready
+2015-10-24 12:52:00 - start products part#0|5000
+2015-10-24 12:52:00 - feed 0|5000_start
+2015-10-24 12:52:02 - count 375
+2015-10-24 12:52:02 - feed 0|5000_ready
+2015-10-24 12:52:03 - start products part#0|6000
+2015-10-24 12:52:03 - sitemap_start-----------------------
+2015-10-24 12:52:03 - base_start
+2015-10-24 12:52:03 - --categories set start--
+2015-10-24 12:52:03 - --categories set end--
+2015-10-24 12:52:03 - manufacturer disabled
+2015-10-24 12:52:03 - --information set start--
+2015-10-24 12:52:03 - --information set end--
+2015-10-24 12:52:03 - --information set start--
+2015-10-24 12:52:03 - end product part #0
+2015-10-24 12:52:21 - start products part #0
+2015-10-24 12:52:21 - start products part#0|0
+2015-10-24 12:52:21 - feed 0|0_start
+2015-10-24 12:52:22 - count 1000
+2015-10-24 12:52:22 - feed 0|0_ready
+2015-10-24 12:52:22 - start products part#0|1000
+2015-10-24 12:52:22 - feed 0|1000_start
+2015-10-24 12:52:23 - count 1000
+2015-10-24 12:52:23 - feed 0|1000_ready
+2015-10-24 12:52:23 - start products part#0|2000
+2015-10-24 12:52:23 - feed 0|2000_start
+2015-10-24 12:52:24 - count 1000
+2015-10-24 12:52:24 - feed 0|2000_ready
+2015-10-24 12:52:25 - start products part#0|3000
+2015-10-24 12:52:25 - feed 0|3000_start
+2015-10-24 12:52:25 - count 1000
+2015-10-24 12:52:25 - feed 0|3000_ready
+2015-10-24 12:52:26 - start products part#0|4000
+2015-10-24 12:52:26 - feed 0|4000_start
+2015-10-24 12:52:27 - count 1000
+2015-10-24 12:52:27 - feed 0|4000_ready
+2015-10-24 12:52:27 - start products part#0|5000
+2015-10-24 12:52:27 - feed 0|5000_start
+2015-10-24 12:52:27 - count 375
+2015-10-24 12:52:27 - feed 0|5000_ready
+2015-10-24 12:52:27 - start products part#0|6000
+2015-10-24 12:52:28 - sitemap_start-----------------------
+2015-10-24 12:52:28 - base_start
+2015-10-24 12:52:28 - --categories set start--
+2015-10-24 12:52:28 - --categories set end--
+2015-10-24 12:52:28 - manufacturer disabled
+2015-10-24 12:52:28 - --information set start--
+2015-10-24 12:52:28 - --information set end--
+2015-10-24 12:52:28 - --information set start--
+2015-10-24 12:52:28 - end product part #0
+2015-10-24 12:52:55 - start products part #0
+2015-10-24 12:52:55 - start products part#0|0
+2015-10-24 12:52:55 - feed 0|0_start
+2015-10-24 12:52:56 - count 1000
+2015-10-24 12:52:56 - feed 0|0_ready
+2015-10-24 12:52:56 - start products part#0|1000
+2015-10-24 12:52:56 - feed 0|1000_start
+2015-10-24 12:52:57 - count 1000
+2015-10-24 12:52:57 - feed 0|1000_ready
+2015-10-24 12:52:57 - start products part#0|2000
+2015-10-24 12:52:57 - feed 0|2000_start
+2015-10-24 12:52:58 - count 1000
+2015-10-24 12:52:58 - feed 0|2000_ready
+2015-10-24 12:52:58 - start products part#0|3000
+2015-10-24 12:52:58 - feed 0|3000_start
+2015-10-24 12:52:59 - count 1000
+2015-10-24 12:52:59 - feed 0|3000_ready
+2015-10-24 12:52:59 - start products part#0|4000
+2015-10-24 12:52:59 - feed 0|4000_start
+2015-10-24 12:53:00 - count 1000
+2015-10-24 12:53:00 - feed 0|4000_ready
+2015-10-24 12:53:00 - start products part#0|5000
+2015-10-24 12:53:00 - feed 0|5000_start
+2015-10-24 12:53:00 - count 375
+2015-10-24 12:53:00 - feed 0|5000_ready
+2015-10-24 12:53:00 - start products part#0|6000
+2015-10-24 12:53:01 - sitemap_start-----------------------
+2015-10-24 12:53:01 - base_start
+2015-10-24 12:53:01 - --categories set start--
+2015-10-24 12:53:01 - --categories set end--
+2015-10-24 12:53:01 - manufacturer disabled
+2015-10-24 12:53:01 - --information set start--
+2015-10-24 12:53:01 - --information set end--
+2015-10-24 12:53:01 - --information set start--
+2015-10-24 12:53:01 - end product part #0
+2015-10-24 12:53:39 - start products part #0
+2015-10-24 12:53:39 - start products part#0|0
+2015-10-24 12:53:40 - feed 0|0_start
+2015-10-24 12:53:40 - count 1000
+2015-10-24 12:53:40 - feed 0|0_ready
+2015-10-24 12:53:41 - start products part#0|1000
+2015-10-24 12:53:41 - feed 0|1000_start
+2015-10-24 12:53:41 - count 1000
+2015-10-24 12:53:41 - feed 0|1000_ready
+2015-10-24 12:53:42 - start products part#0|2000
+2015-10-24 12:53:42 - feed 0|2000_start
+2015-10-24 12:53:42 - count 1000
+2015-10-24 12:53:42 - feed 0|2000_ready
+2015-10-24 12:53:42 - start products part#0|3000
+2015-10-24 12:53:42 - feed 0|3000_start
+2015-10-24 12:53:43 - count 1000
+2015-10-24 12:53:43 - feed 0|3000_ready
+2015-10-24 12:53:43 - start products part#0|4000
+2015-10-24 12:53:43 - feed 0|4000_start
+2015-10-24 12:53:44 - count 1000
+2015-10-24 12:53:44 - feed 0|4000_ready
+2015-10-24 12:53:44 - start products part#0|5000
+2015-10-24 12:53:44 - feed 0|5000_start
+2015-10-24 12:53:45 - count 375
+2015-10-24 12:53:45 - feed 0|5000_ready
+2015-10-24 12:53:45 - start products part#0|6000
+2015-10-24 12:53:45 - sitemap_start-----------------------
+2015-10-24 12:53:45 - base_start
+2015-10-24 12:53:45 - --categories set start--
+2015-10-24 12:53:45 - --categories set end--
+2015-10-24 12:53:45 - manufacturer disabled
+2015-10-24 12:53:45 - --information set start--
+2015-10-24 12:53:45 - --information set end--
+2015-10-24 12:53:45 - --information set start--
+2015-10-24 12:53:45 - --information set end--
+2015-10-24 12:53:45 - base_end
+2015-10-24 12:53:45 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 12:53:45 - total time: 0.22618389129639
+2015-10-24 12:53:45 - end product part #0
+2015-10-24 13:01:06 - start products part #0
+2015-10-24 13:01:06 - start products part#0|0
+2015-10-24 13:01:06 - feed 0|0_start
+2015-10-24 13:01:07 - count 1000
+2015-10-24 13:01:07 - feed 0|0_ready
+2015-10-24 13:01:07 - start products part#0|1000
+2015-10-24 13:01:07 - feed 0|1000_start
+2015-10-24 13:01:08 - count 1000
+2015-10-24 13:01:08 - feed 0|1000_ready
+2015-10-24 13:01:08 - start products part#0|2000
+2015-10-24 13:01:08 - feed 0|2000_start
+2015-10-24 13:01:09 - count 1000
+2015-10-24 13:01:09 - feed 0|2000_ready
+2015-10-24 13:01:09 - start products part#0|3000
+2015-10-24 13:01:09 - feed 0|3000_start
+2015-10-24 13:01:10 - count 1000
+2015-10-24 13:01:10 - feed 0|3000_ready
+2015-10-24 13:01:10 - start products part#0|4000
+2015-10-24 13:01:10 - feed 0|4000_start
+2015-10-24 13:01:11 - count 1000
+2015-10-24 13:01:11 - feed 0|4000_ready
+2015-10-24 13:01:11 - start products part#0|5000
+2015-10-24 13:01:11 - feed 0|5000_start
+2015-10-24 13:01:11 - count 375
+2015-10-24 13:01:11 - feed 0|5000_ready
+2015-10-24 13:01:11 - start products part#0|6000
+2015-10-24 13:01:11 - end product part #0
+2015-10-24 13:01:12 - sitemap_start-----------------------
+2015-10-24 13:01:12 - base_start
+2015-10-24 13:01:12 - --categories set start--
+2015-10-24 13:01:13 - --categories set end--
+2015-10-24 13:01:13 - manufacturer disabled
+2015-10-24 13:01:13 - --information set start--
+2015-10-24 13:01:13 - --information set end--
+2015-10-24 13:01:13 - --information set start--
+2015-10-24 13:01:13 - --information set end--
+2015-10-24 13:01:13 - base_end
+2015-10-24 13:01:13 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:01:13 - total time: 0.21294593811035
+2015-10-24 13:15:44 - start products part #0
+2015-10-24 13:15:45 - start products part#0|0
+2015-10-24 13:15:45 - feed 0|0_start
+2015-10-24 13:15:46 - count 1000
+2015-10-24 13:15:46 - feed 0|0_ready
+2015-10-24 13:15:46 - start products part#0|1000
+2015-10-24 13:15:46 - feed 0|1000_start
+2015-10-24 13:15:47 - count 1000
+2015-10-24 13:15:47 - feed 0|1000_ready
+2015-10-24 13:15:47 - start products part#0|2000
+2015-10-24 13:15:47 - feed 0|2000_start
+2015-10-24 13:15:50 - count 1000
+2015-10-24 13:15:50 - feed 0|2000_ready
+2015-10-24 13:15:50 - start products part#0|3000
+2015-10-24 13:15:50 - feed 0|3000_start
+2015-10-24 13:15:53 - count 1000
+2015-10-24 13:15:53 - feed 0|3000_ready
+2015-10-24 13:15:53 - start products part#0|4000
+2015-10-24 13:15:53 - feed 0|4000_start
+2015-10-24 13:15:54 - count 1000
+2015-10-24 13:15:54 - feed 0|4000_ready
+2015-10-24 13:15:54 - start products part#0|5000
+2015-10-24 13:15:54 - feed 0|5000_start
+2015-10-24 13:15:55 - count 375
+2015-10-24 13:15:55 - feed 0|5000_ready
+2015-10-24 13:15:55 - start products part#0|6000
+2015-10-24 13:15:55 - sitemap_start-----------------------
+2015-10-24 13:15:55 - base_start
+2015-10-24 13:15:55 - --categories set start--
+2015-10-24 13:15:55 - --categories set end--
+2015-10-24 13:15:55 - manufacturer disabled
+2015-10-24 13:15:55 - --information set start--
+2015-10-24 13:15:55 - --information set end--
+2015-10-24 13:15:55 - --information set start--
+2015-10-24 13:15:55 - --information set end--
+2015-10-24 13:15:55 - base_end
+2015-10-24 13:15:55 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:15:55 - total time: 0.14547896385193
+2015-10-24 13:15:55 - end product part #0
+2015-10-24 13:17:19 - start products part #0
+2015-10-24 13:17:19 - start products part#0|0
+2015-10-24 13:17:19 - feed 0|0_start
+2015-10-24 13:17:20 - count 1000
+2015-10-24 13:17:20 - feed 0|0_ready
+2015-10-24 13:17:20 - start products part#0|1000
+2015-10-24 13:17:20 - feed 0|1000_start
+2015-10-24 13:17:22 - count 1000
+2015-10-24 13:17:22 - feed 0|1000_ready
+2015-10-24 13:17:22 - start products part#0|2000
+2015-10-24 13:17:22 - feed 0|2000_start
+2015-10-24 13:17:25 - count 1000
+2015-10-24 13:17:25 - feed 0|2000_ready
+2015-10-24 13:17:25 - start products part#0|3000
+2015-10-24 13:17:25 - feed 0|3000_start
+2015-10-24 13:17:28 - count 1000
+2015-10-24 13:17:28 - feed 0|3000_ready
+2015-10-24 13:17:28 - start products part#0|4000
+2015-10-24 13:17:28 - feed 0|4000_start
+2015-10-24 13:17:28 - count 1000
+2015-10-24 13:17:28 - feed 0|4000_ready
+2015-10-24 13:17:28 - start products part#0|5000
+2015-10-24 13:17:28 - feed 0|5000_start
+2015-10-24 13:17:29 - count 375
+2015-10-24 13:17:29 - feed 0|5000_ready
+2015-10-24 13:17:29 - start products part#0|6000
+2015-10-24 13:17:29 - sitemap_start-----------------------
+2015-10-24 13:17:29 - base_start
+2015-10-24 13:17:29 - --categories set start--
+2015-10-24 13:17:29 - --categories set end--
+2015-10-24 13:17:29 - manufacturer disabled
+2015-10-24 13:17:29 - --information set start--
+2015-10-24 13:17:29 - --information set end--
+2015-10-24 13:17:29 - --information set start--
+2015-10-24 13:17:29 - --information set end--
+2015-10-24 13:17:29 - base_end
+2015-10-24 13:17:29 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:17:29 - total time: 0.14411997795105
+2015-10-24 13:17:29 - end product part #0
+2015-10-24 13:19:37 - start products part #0
+2015-10-24 13:19:37 - start products part#0|0
+2015-10-24 13:19:37 - feed 0|0_start
+2015-10-24 13:19:37 - count 1000
+2015-10-24 13:19:37 - feed 0|0_ready
+2015-10-24 13:19:37 - start products part#0|1000
+2015-10-24 13:19:37 - feed 0|1000_start
+2015-10-24 13:19:38 - count 1000
+2015-10-24 13:19:38 - feed 0|1000_ready
+2015-10-24 13:19:38 - start products part#0|2000
+2015-10-24 13:19:38 - feed 0|2000_start
+2015-10-24 13:19:38 - count 1000
+2015-10-24 13:19:38 - feed 0|2000_ready
+2015-10-24 13:19:39 - start products part#0|3000
+2015-10-24 13:19:39 - feed 0|3000_start
+2015-10-24 13:19:39 - count 1000
+2015-10-24 13:19:39 - feed 0|3000_ready
+2015-10-24 13:19:39 - start products part#0|4000
+2015-10-24 13:19:39 - feed 0|4000_start
+2015-10-24 13:19:40 - count 1000
+2015-10-24 13:19:40 - feed 0|4000_ready
+2015-10-24 13:19:40 - start products part#0|5000
+2015-10-24 13:19:40 - feed 0|5000_start
+2015-10-24 13:19:40 - count 375
+2015-10-24 13:19:40 - feed 0|5000_ready
+2015-10-24 13:19:40 - start products part#0|6000
+2015-10-24 13:19:40 - sitemap_start-----------------------
+2015-10-24 13:19:40 - base_start
+2015-10-24 13:19:40 - --categories set start--
+2015-10-24 13:19:40 - --categories set end--
+2015-10-24 13:19:40 - manufacturer disabled
+2015-10-24 13:19:40 - --information set start--
+2015-10-24 13:19:41 - --information set end--
+2015-10-24 13:19:41 - --information set start--
+2015-10-24 13:19:41 - --information set end--
+2015-10-24 13:19:41 - base_end
+2015-10-24 13:19:41 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:19:41 - total time: 0.099155902862549
+2015-10-24 13:19:41 - end product part #0
+2015-10-24 13:20:55 - start products part #0
+2015-10-24 13:20:55 - start products part#0|0
+2015-10-24 13:20:55 - feed 0|0_start
+2015-10-24 13:20:55 - count 1000
+2015-10-24 13:20:55 - feed 0|0_ready
+2015-10-24 13:20:56 - start products part#0|1000
+2015-10-24 13:20:56 - feed 0|1000_start
+2015-10-24 13:20:56 - count 1000
+2015-10-24 13:20:56 - feed 0|1000_ready
+2015-10-24 13:20:56 - start products part#0|2000
+2015-10-24 13:20:56 - feed 0|2000_start
+2015-10-24 13:20:57 - count 1000
+2015-10-24 13:20:57 - feed 0|2000_ready
+2015-10-24 13:20:57 - start products part#0|3000
+2015-10-24 13:20:57 - feed 0|3000_start
+2015-10-24 13:20:57 - count 1000
+2015-10-24 13:20:57 - feed 0|3000_ready
+2015-10-24 13:20:57 - start products part#0|4000
+2015-10-24 13:20:57 - feed 0|4000_start
+2015-10-24 13:20:58 - count 1000
+2015-10-24 13:20:58 - feed 0|4000_ready
+2015-10-24 13:20:58 - start products part#0|5000
+2015-10-24 13:20:58 - feed 0|5000_start
+2015-10-24 13:20:58 - count 375
+2015-10-24 13:20:58 - feed 0|5000_ready
+2015-10-24 13:20:58 - start products part#0|6000
+2015-10-24 13:20:59 - sitemap_start-----------------------
+2015-10-24 13:20:59 - base_start
+2015-10-24 13:20:59 - --categories set start--
+2015-10-24 13:20:59 - --categories set end--
+2015-10-24 13:20:59 - manufacturer disabled
+2015-10-24 13:20:59 - --information set start--
+2015-10-24 13:20:59 - --information set end--
+2015-10-24 13:20:59 - --information set start--
+2015-10-24 13:20:59 - --information set end--
+2015-10-24 13:20:59 - base_end
+2015-10-24 13:20:59 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:20:59 - total time: 0.1478328704834
+2015-10-24 13:20:59 - end product part #0
+2015-10-24 13:22:25 - start products part #0
+2015-10-24 13:22:25 - start products part#0|0
+2015-10-24 13:22:25 - feed 0|0_start
+2015-10-24 13:22:25 - count 1000
+2015-10-24 13:22:25 - feed 0|0_ready
+2015-10-24 13:22:25 - start products part#0|1000
+2015-10-24 13:22:25 - feed 0|1000_start
+2015-10-24 13:22:26 - count 1000
+2015-10-24 13:22:26 - feed 0|1000_ready
+2015-10-24 13:22:26 - start products part#0|2000
+2015-10-24 13:22:26 - feed 0|2000_start
+2015-10-24 13:22:27 - count 1000
+2015-10-24 13:22:27 - feed 0|2000_ready
+2015-10-24 13:22:27 - start products part#0|3000
+2015-10-24 13:22:27 - feed 0|3000_start
+2015-10-24 13:22:28 - count 1000
+2015-10-24 13:22:28 - feed 0|3000_ready
+2015-10-24 13:22:28 - start products part#0|4000
+2015-10-24 13:22:28 - feed 0|4000_start
+2015-10-24 13:22:29 - count 1000
+2015-10-24 13:22:29 - feed 0|4000_ready
+2015-10-24 13:22:29 - start products part#0|5000
+2015-10-24 13:22:29 - feed 0|5000_start
+2015-10-24 13:22:29 - count 375
+2015-10-24 13:22:29 - feed 0|5000_ready
+2015-10-24 13:22:29 - start products part#0|6000
+2015-10-24 13:22:29 - sitemap_start-----------------------
+2015-10-24 13:22:29 - base_start
+2015-10-24 13:22:29 - --categories set start--
+2015-10-24 13:22:29 - --categories set end--
+2015-10-24 13:22:29 - manufacturer disabled
+2015-10-24 13:22:29 - --information set start--
+2015-10-24 13:22:29 - --information set end--
+2015-10-24 13:22:29 - --information set start--
+2015-10-24 13:22:29 - --information set end--
+2015-10-24 13:22:29 - base_end
+2015-10-24 13:22:29 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:22:29 - total time: 0.092061042785645
+2015-10-24 13:22:29 - end product part #0
+2015-10-24 13:23:51 - start products part #0
+2015-10-24 13:23:51 - start products part#0|0
+2015-10-24 13:23:51 - feed 0|0_start
+2015-10-24 13:23:52 - count 1000
+2015-10-24 13:23:52 - feed 0|0_ready
+2015-10-24 13:23:52 - start products part#0|1000
+2015-10-24 13:23:52 - feed 0|1000_start
+2015-10-24 13:23:52 - count 1000
+2015-10-24 13:23:52 - feed 0|1000_ready
+2015-10-24 13:23:52 - start products part#0|2000
+2015-10-24 13:23:52 - feed 0|2000_start
+2015-10-24 13:23:53 - count 1000
+2015-10-24 13:23:53 - feed 0|2000_ready
+2015-10-24 13:23:53 - start products part#0|3000
+2015-10-24 13:23:53 - feed 0|3000_start
+2015-10-24 13:23:54 - count 1000
+2015-10-24 13:23:54 - feed 0|3000_ready
+2015-10-24 13:23:54 - start products part#0|4000
+2015-10-24 13:23:54 - feed 0|4000_start
+2015-10-24 13:23:54 - count 1000
+2015-10-24 13:23:54 - feed 0|4000_ready
+2015-10-24 13:23:54 - start products part#0|5000
+2015-10-24 13:23:54 - feed 0|5000_start
+2015-10-24 13:23:55 - count 375
+2015-10-24 13:23:55 - feed 0|5000_ready
+2015-10-24 13:23:55 - start products part#0|6000
+2015-10-24 13:23:55 - end product part #0
+2015-10-24 13:23:55 - sitemap_start-----------------------
+2015-10-24 13:23:55 - base_start
+2015-10-24 13:23:55 - --categories set start--
+2015-10-24 13:23:55 - --categories set end--
+2015-10-24 13:23:55 - manufacturer disabled
+2015-10-24 13:23:55 - --information set start--
+2015-10-24 13:23:55 - --information set end--
+2015-10-24 13:23:55 - --information set start--
+2015-10-24 13:23:55 - --information set end--
+2015-10-24 13:23:55 - base_end
+2015-10-24 13:23:55 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:23:55 - total time: 0.098599910736084
+2015-10-24 13:26:24 - start products part #0
+2015-10-24 13:26:25 - start products part#0|0
+2015-10-24 13:26:25 - feed 0|0_start
+2015-10-24 13:26:25 - count 1000
+2015-10-24 13:26:25 - feed 0|0_ready
+2015-10-24 13:26:25 - start products part#0|1000
+2015-10-24 13:26:25 - feed 0|1000_start
+2015-10-24 13:26:26 - count 1000
+2015-10-24 13:26:26 - feed 0|1000_ready
+2015-10-24 13:26:26 - start products part#0|2000
+2015-10-24 13:26:26 - feed 0|2000_start
+2015-10-24 13:26:27 - count 1000
+2015-10-24 13:26:27 - feed 0|2000_ready
+2015-10-24 13:26:27 - start products part#0|3000
+2015-10-24 13:26:27 - feed 0|3000_start
+2015-10-24 13:26:28 - count 1000
+2015-10-24 13:26:28 - feed 0|3000_ready
+2015-10-24 13:26:28 - start products part#0|4000
+2015-10-24 13:26:28 - feed 0|4000_start
+2015-10-24 13:26:28 - count 1000
+2015-10-24 13:26:28 - feed 0|4000_ready
+2015-10-24 13:26:29 - start products part#0|5000
+2015-10-24 13:26:29 - feed 0|5000_start
+2015-10-24 13:26:29 - count 375
+2015-10-24 13:26:29 - feed 0|5000_ready
+2015-10-24 13:26:29 - start products part#0|6000
+2015-10-24 13:26:29 - sitemap_start-----------------------
+2015-10-24 13:26:29 - base_start
+2015-10-24 13:26:29 - --categories set start--
+2015-10-24 13:26:29 - --categories set end--
+2015-10-24 13:26:29 - manufacturer disabled
+2015-10-24 13:26:29 - --information set start--
+2015-10-24 13:26:29 - --information set end--
+2015-10-24 13:26:29 - --information set start--
+2015-10-24 13:26:29 - --information set end--
+2015-10-24 13:26:29 - base_end
+2015-10-24 13:26:29 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:26:29 - total time: 0.14300298690796
+2015-10-24 13:26:30 - end product part #0
+2015-10-24 13:28:39 - start products part #0
+2015-10-24 13:28:39 - start products part#0|0
+2015-10-24 13:28:39 - feed 0|0_start
+2015-10-24 13:28:40 - count 1000
+2015-10-24 13:28:40 - feed 0|0_ready
+2015-10-24 13:28:40 - start products part#0|1000
+2015-10-24 13:28:40 - feed 0|1000_start
+2015-10-24 13:28:41 - count 1000
+2015-10-24 13:28:41 - feed 0|1000_ready
+2015-10-24 13:28:41 - start products part#0|2000
+2015-10-24 13:28:41 - feed 0|2000_start
+2015-10-24 13:28:41 - count 1000
+2015-10-24 13:28:41 - feed 0|2000_ready
+2015-10-24 13:28:42 - start products part#0|3000
+2015-10-24 13:28:42 - feed 0|3000_start
+2015-10-24 13:28:42 - count 1000
+2015-10-24 13:28:42 - feed 0|3000_ready
+2015-10-24 13:28:42 - start products part#0|4000
+2015-10-24 13:28:42 - feed 0|4000_start
+2015-10-24 13:28:43 - count 1000
+2015-10-24 13:28:43 - feed 0|4000_ready
+2015-10-24 13:28:43 - start products part#0|5000
+2015-10-24 13:28:43 - feed 0|5000_start
+2015-10-24 13:28:43 - count 375
+2015-10-24 13:28:43 - feed 0|5000_ready
+2015-10-24 13:28:43 - start products part#0|6000
+2015-10-24 13:28:43 - end product part #0
+2015-10-24 13:28:44 - sitemap_start-----------------------
+2015-10-24 13:28:44 - base_start
+2015-10-24 13:28:44 - --categories set start--
+2015-10-24 13:28:45 - --categories set end--
+2015-10-24 13:28:45 - manufacturer disabled
+2015-10-24 13:28:45 - --information set start--
+2015-10-24 13:28:45 - --information set end--
+2015-10-24 13:28:45 - --information set start--
+2015-10-24 13:28:45 - --information set end--
+2015-10-24 13:28:45 - base_end
+2015-10-24 13:28:45 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:28:45 - total time: 0.18431997299194
+2015-10-24 13:31:16 - start products part #0
+2015-10-24 13:31:16 - start products part#0|0
+2015-10-24 13:31:16 - feed 0|0_start
+2015-10-24 13:31:17 - count 1000
+2015-10-24 13:31:17 - feed 0|0_ready
+2015-10-24 13:31:17 - start products part#0|1000
+2015-10-24 13:31:17 - feed 0|1000_start
+2015-10-24 13:31:17 - count 1000
+2015-10-24 13:31:17 - feed 0|1000_ready
+2015-10-24 13:31:17 - start products part#0|2000
+2015-10-24 13:31:17 - feed 0|2000_start
+2015-10-24 13:31:18 - count 1000
+2015-10-24 13:31:18 - feed 0|2000_ready
+2015-10-24 13:31:18 - start products part#0|3000
+2015-10-24 13:31:18 - feed 0|3000_start
+2015-10-24 13:31:19 - count 1000
+2015-10-24 13:31:19 - feed 0|3000_ready
+2015-10-24 13:31:19 - start products part#0|4000
+2015-10-24 13:31:19 - feed 0|4000_start
+2015-10-24 13:31:19 - count 1000
+2015-10-24 13:31:19 - feed 0|4000_ready
+2015-10-24 13:31:19 - start products part#0|5000
+2015-10-24 13:31:19 - feed 0|5000_start
+2015-10-24 13:31:20 - count 375
+2015-10-24 13:31:20 - feed 0|5000_ready
+2015-10-24 13:31:20 - start products part#0|6000
+2015-10-24 13:31:20 - sitemap_start-----------------------
+2015-10-24 13:31:20 - base_start
+2015-10-24 13:31:20 - --categories set start--
+2015-10-24 13:31:20 - --categories set end--
+2015-10-24 13:31:20 - manufacturer disabled
+2015-10-24 13:31:20 - --information set start--
+2015-10-24 13:31:20 - --information set end--
+2015-10-24 13:31:20 - --information set start--
+2015-10-24 13:31:20 - --information set end--
+2015-10-24 13:31:20 - base_end
+2015-10-24 13:31:20 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:31:20 - total time: 0.17057394981384
+2015-10-24 13:31:21 - end product part #0
+2015-10-24 13:36:05 - start products part #0
+2015-10-24 13:36:05 - start products part#0|0
+2015-10-24 13:36:05 - feed 0|0_start
+2015-10-24 13:36:06 - count 1000
+2015-10-24 13:36:06 - feed 0|0_ready
+2015-10-24 13:36:06 - start products part#0|1000
+2015-10-24 13:36:06 - feed 0|1000_start
+2015-10-24 13:36:06 - count 1000
+2015-10-24 13:36:06 - feed 0|1000_ready
+2015-10-24 13:36:07 - start products part#0|2000
+2015-10-24 13:36:07 - feed 0|2000_start
+2015-10-24 13:36:07 - count 1000
+2015-10-24 13:36:07 - feed 0|2000_ready
+2015-10-24 13:36:07 - start products part#0|3000
+2015-10-24 13:36:07 - feed 0|3000_start
+2015-10-24 13:36:08 - count 1000
+2015-10-24 13:36:08 - feed 0|3000_ready
+2015-10-24 13:36:08 - start products part#0|4000
+2015-10-24 13:36:08 - feed 0|4000_start
+2015-10-24 13:36:09 - count 1000
+2015-10-24 13:36:09 - feed 0|4000_ready
+2015-10-24 13:36:09 - start products part#0|5000
+2015-10-24 13:36:09 - feed 0|5000_start
+2015-10-24 13:36:09 - count 375
+2015-10-24 13:36:09 - feed 0|5000_ready
+2015-10-24 13:36:09 - start products part#0|6000
+2015-10-24 13:36:09 - end product part #0
+2015-10-24 13:36:10 - sitemap_start-----------------------
+2015-10-24 13:36:10 - base_start
+2015-10-24 13:36:10 - --categories set start--
+2015-10-24 13:36:10 - --categories set end--
+2015-10-24 13:36:10 - manufacturer disabled
+2015-10-24 13:36:10 - --information set start--
+2015-10-24 13:36:10 - --information set end--
+2015-10-24 13:36:10 - --information set start--
+2015-10-24 13:36:10 - --information set end--
+2015-10-24 13:36:10 - base_end
+2015-10-24 13:36:10 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:36:10 - total time: 0.13666296005249
+2015-10-24 13:40:20 - start products part #0
+2015-10-24 13:40:20 - start products part#0|0
+2015-10-24 13:40:20 - feed 0|0_start
+2015-10-24 13:40:21 - count 1000
+2015-10-24 13:40:21 - feed 0|0_ready
+2015-10-24 13:40:21 - start products part#0|1000
+2015-10-24 13:40:21 - feed 0|1000_start
+2015-10-24 13:40:21 - count 1000
+2015-10-24 13:40:21 - feed 0|1000_ready
+2015-10-24 13:40:21 - start products part#0|2000
+2015-10-24 13:40:21 - feed 0|2000_start
+2015-10-24 13:40:22 - count 1000
+2015-10-24 13:40:22 - feed 0|2000_ready
+2015-10-24 13:40:22 - start products part#0|3000
+2015-10-24 13:40:22 - feed 0|3000_start
+2015-10-24 13:40:22 - count 1000
+2015-10-24 13:40:22 - feed 0|3000_ready
+2015-10-24 13:40:22 - start products part#0|4000
+2015-10-24 13:40:22 - feed 0|4000_start
+2015-10-24 13:40:23 - count 1000
+2015-10-24 13:40:23 - feed 0|4000_ready
+2015-10-24 13:40:23 - start products part#0|5000
+2015-10-24 13:40:23 - feed 0|5000_start
+2015-10-24 13:40:24 - count 375
+2015-10-24 13:40:24 - feed 0|5000_ready
+2015-10-24 13:40:24 - start products part#0|6000
+2015-10-24 13:40:24 - sitemap_start-----------------------
+2015-10-24 13:40:24 - base_start
+2015-10-24 13:40:24 - --categories set start--
+2015-10-24 13:40:24 - --categories set end--
+2015-10-24 13:40:24 - manufacturer disabled
+2015-10-24 13:40:24 - --information set start--
+2015-10-24 13:40:24 - --information set end--
+2015-10-24 13:40:24 - --information set start--
+2015-10-24 13:40:24 - --information set end--
+2015-10-24 13:40:24 - base_end
+2015-10-24 13:40:24 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:40:24 - total time: 0.17877006530762
+2015-10-24 13:40:24 - end product part #0
+2015-10-24 13:42:04 - start products part #0
+2015-10-24 13:42:04 - start products part#0|0
+2015-10-24 13:42:04 - feed 0|0_start
+2015-10-24 13:42:05 - count 1000
+2015-10-24 13:42:05 - feed 0|0_ready
+2015-10-24 13:42:05 - start products part#0|1000
+2015-10-24 13:42:05 - feed 0|1000_start
+2015-10-24 13:42:06 - count 1000
+2015-10-24 13:42:06 - feed 0|1000_ready
+2015-10-24 13:42:06 - start products part#0|2000
+2015-10-24 13:42:06 - feed 0|2000_start
+2015-10-24 13:42:06 - count 1000
+2015-10-24 13:42:06 - feed 0|2000_ready
+2015-10-24 13:42:06 - start products part#0|3000
+2015-10-24 13:42:06 - feed 0|3000_start
+2015-10-24 13:42:07 - count 1000
+2015-10-24 13:42:07 - feed 0|3000_ready
+2015-10-24 13:42:07 - start products part#0|4000
+2015-10-24 13:42:07 - feed 0|4000_start
+2015-10-24 13:42:08 - count 1000
+2015-10-24 13:42:08 - feed 0|4000_ready
+2015-10-24 13:42:08 - start products part#0|5000
+2015-10-24 13:42:08 - feed 0|5000_start
+2015-10-24 13:42:08 - count 375
+2015-10-24 13:42:08 - feed 0|5000_ready
+2015-10-24 13:42:08 - start products part#0|6000
+2015-10-24 13:42:08 - end product part #0
+2015-10-24 13:42:08 - sitemap_start-----------------------
+2015-10-24 13:42:08 - base_start
+2015-10-24 13:42:08 - --categories set start--
+2015-10-24 13:42:09 - --categories set end--
+2015-10-24 13:42:09 - manufacturer disabled
+2015-10-24 13:42:09 - --information set start--
+2015-10-24 13:42:09 - --information set end--
+2015-10-24 13:42:09 - --information set start--
+2015-10-24 13:42:09 - --information set end--
+2015-10-24 13:42:09 - base_end
+2015-10-24 13:42:09 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:42:09 - total time: 0.11363816261292
+2015-10-24 13:45:30 - start products part #0
+2015-10-24 13:45:30 - start products part#0|0
+2015-10-24 13:45:30 - feed 0|0_start
+2015-10-24 13:45:31 - count 1000
+2015-10-24 13:45:31 - feed 0|0_ready
+2015-10-24 13:45:31 - start products part#0|1000
+2015-10-24 13:45:31 - feed 0|1000_start
+2015-10-24 13:45:32 - count 1000
+2015-10-24 13:45:32 - feed 0|1000_ready
+2015-10-24 13:45:32 - start products part#0|2000
+2015-10-24 13:45:32 - feed 0|2000_start
+2015-10-24 13:45:33 - count 1000
+2015-10-24 13:45:33 - feed 0|2000_ready
+2015-10-24 13:45:33 - start products part#0|3000
+2015-10-24 13:45:33 - feed 0|3000_start
+2015-10-24 13:45:34 - count 1000
+2015-10-24 13:45:34 - feed 0|3000_ready
+2015-10-24 13:45:34 - start products part#0|4000
+2015-10-24 13:45:34 - feed 0|4000_start
+2015-10-24 13:45:35 - count 1000
+2015-10-24 13:45:35 - feed 0|4000_ready
+2015-10-24 13:45:35 - start products part#0|5000
+2015-10-24 13:45:35 - feed 0|5000_start
+2015-10-24 13:45:35 - count 375
+2015-10-24 13:45:35 - feed 0|5000_ready
+2015-10-24 13:45:35 - start products part#0|6000
+2015-10-24 13:45:35 - sitemap_start-----------------------
+2015-10-24 13:45:35 - base_start
+2015-10-24 13:45:35 - --categories set start--
+2015-10-24 13:45:35 - --categories set end--
+2015-10-24 13:45:35 - manufacturer disabled
+2015-10-24 13:45:35 - --information set start--
+2015-10-24 13:45:35 - --information set end--
+2015-10-24 13:45:35 - --information set start--
+2015-10-24 13:45:35 - --information set end--
+2015-10-24 13:45:35 - base_end
+2015-10-24 13:45:35 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:45:35 - total time: 0.17146301269531
+2015-10-24 13:45:36 - end product part #0
+2015-10-24 13:47:06 - start products part #0
+2015-10-24 13:47:06 - start products part#0|0
+2015-10-24 13:47:06 - feed 0|0_start
+2015-10-24 13:47:07 - count 1000
+2015-10-24 13:47:07 - feed 0|0_ready
+2015-10-24 13:47:07 - start products part#0|1000
+2015-10-24 13:47:07 - feed 0|1000_start
+2015-10-24 13:47:08 - count 1000
+2015-10-24 13:47:08 - feed 0|1000_ready
+2015-10-24 13:47:08 - start products part#0|2000
+2015-10-24 13:47:08 - feed 0|2000_start
+2015-10-24 13:47:09 - count 1000
+2015-10-24 13:47:09 - feed 0|2000_ready
+2015-10-24 13:47:09 - start products part#0|3000
+2015-10-24 13:47:09 - feed 0|3000_start
+2015-10-24 13:47:09 - count 1000
+2015-10-24 13:47:09 - feed 0|3000_ready
+2015-10-24 13:47:10 - start products part#0|4000
+2015-10-24 13:47:10 - feed 0|4000_start
+2015-10-24 13:47:10 - count 1000
+2015-10-24 13:47:10 - feed 0|4000_ready
+2015-10-24 13:47:10 - start products part#0|5000
+2015-10-24 13:47:10 - feed 0|5000_start
+2015-10-24 13:47:11 - count 375
+2015-10-24 13:47:11 - feed 0|5000_ready
+2015-10-24 13:47:11 - start products part#0|6000
+2015-10-24 13:47:11 - sitemap_start-----------------------
+2015-10-24 13:47:11 - base_start
+2015-10-24 13:47:11 - --categories set start--
+2015-10-24 13:47:11 - --categories set end--
+2015-10-24 13:47:11 - manufacturer disabled
+2015-10-24 13:47:11 - --information set start--
+2015-10-24 13:47:11 - --information set end--
+2015-10-24 13:47:11 - --information set start--
+2015-10-24 13:47:11 - --information set end--
+2015-10-24 13:47:11 - base_end
+2015-10-24 13:47:11 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:47:11 - total time: 0.14666604995728
+2015-10-24 13:47:11 - end product part #0
+2015-10-24 13:48:09 - start products part #0
+2015-10-24 13:48:09 - start products part#0|0
+2015-10-24 13:48:09 - feed 0|0_start
+2015-10-24 13:48:10 - count 1000
+2015-10-24 13:48:10 - feed 0|0_ready
+2015-10-24 13:48:10 - start products part#0|1000
+2015-10-24 13:48:10 - feed 0|1000_start
+2015-10-24 13:48:11 - count 1000
+2015-10-24 13:48:11 - feed 0|1000_ready
+2015-10-24 13:48:11 - start products part#0|2000
+2015-10-24 13:48:11 - feed 0|2000_start
+2015-10-24 13:48:11 - count 1000
+2015-10-24 13:48:11 - feed 0|2000_ready
+2015-10-24 13:48:12 - start products part#0|3000
+2015-10-24 13:48:12 - feed 0|3000_start
+2015-10-24 13:48:12 - count 1000
+2015-10-24 13:48:12 - feed 0|3000_ready
+2015-10-24 13:48:12 - start products part#0|4000
+2015-10-24 13:48:12 - feed 0|4000_start
+2015-10-24 13:48:13 - count 1000
+2015-10-24 13:48:13 - feed 0|4000_ready
+2015-10-24 13:48:13 - start products part#0|5000
+2015-10-24 13:48:13 - feed 0|5000_start
+2015-10-24 13:48:13 - count 375
+2015-10-24 13:48:13 - feed 0|5000_ready
+2015-10-24 13:48:14 - start products part#0|6000
+2015-10-24 13:48:14 - sitemap_start-----------------------
+2015-10-24 13:48:14 - base_start
+2015-10-24 13:48:14 - --categories set start--
+2015-10-24 13:48:14 - --categories set end--
+2015-10-24 13:48:14 - manufacturer disabled
+2015-10-24 13:48:14 - --information set start--
+2015-10-24 13:48:14 - --information set end--
+2015-10-24 13:48:14 - --information set start--
+2015-10-24 13:48:14 - end product part #0
+2015-10-24 13:48:49 - start products part #0
+2015-10-24 13:48:49 - start products part#0|0
+2015-10-24 13:48:49 - feed 0|0_start
+2015-10-24 13:48:50 - count 1000
+2015-10-24 13:48:50 - feed 0|0_ready
+2015-10-24 13:48:50 - start products part#0|1000
+2015-10-24 13:48:50 - feed 0|1000_start
+2015-10-24 13:48:51 - count 1000
+2015-10-24 13:48:51 - feed 0|1000_ready
+2015-10-24 13:48:51 - start products part#0|2000
+2015-10-24 13:48:51 - feed 0|2000_start
+2015-10-24 13:48:52 - count 1000
+2015-10-24 13:48:52 - feed 0|2000_ready
+2015-10-24 13:48:52 - start products part#0|3000
+2015-10-24 13:48:52 - feed 0|3000_start
+2015-10-24 13:48:53 - count 1000
+2015-10-24 13:48:53 - feed 0|3000_ready
+2015-10-24 13:48:53 - start products part#0|4000
+2015-10-24 13:48:53 - feed 0|4000_start
+2015-10-24 13:48:53 - count 1000
+2015-10-24 13:48:53 - feed 0|4000_ready
+2015-10-24 13:48:53 - start products part#0|5000
+2015-10-24 13:48:53 - feed 0|5000_start
+2015-10-24 13:48:54 - count 375
+2015-10-24 13:48:54 - feed 0|5000_ready
+2015-10-24 13:48:54 - start products part#0|6000
+2015-10-24 13:48:54 - end product part #0
+2015-10-24 13:48:54 - sitemap_start-----------------------
+2015-10-24 13:48:54 - base_start
+2015-10-24 13:48:54 - --categories set start--
+2015-10-24 13:48:54 - --categories set end--
+2015-10-24 13:48:54 - manufacturer disabled
+2015-10-24 13:48:54 - --information set start--
+2015-10-24 13:48:54 - --information set end--
+2015-10-24 13:48:54 - --information set start--
+2015-10-24 13:48:54 - --information set end--
+2015-10-24 13:48:54 - base_end
+2015-10-24 13:48:54 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:48:54 - total time: 0.16534996032715
+2015-10-24 13:49:48 - start products part #0
+2015-10-24 13:49:48 - start products part#0|0
+2015-10-24 13:49:48 - feed 0|0_start
+2015-10-24 13:49:49 - count 1000
+2015-10-24 13:49:49 - feed 0|0_ready
+2015-10-24 13:49:49 - start products part#0|1000
+2015-10-24 13:49:49 - feed 0|1000_start
+2015-10-24 13:49:50 - count 1000
+2015-10-24 13:49:50 - feed 0|1000_ready
+2015-10-24 13:49:50 - start products part#0|2000
+2015-10-24 13:49:50 - feed 0|2000_start
+2015-10-24 13:49:50 - count 1000
+2015-10-24 13:49:50 - feed 0|2000_ready
+2015-10-24 13:49:50 - start products part#0|3000
+2015-10-24 13:49:50 - feed 0|3000_start
+2015-10-24 13:49:51 - count 1000
+2015-10-24 13:49:51 - feed 0|3000_ready
+2015-10-24 13:49:51 - start products part#0|4000
+2015-10-24 13:49:51 - feed 0|4000_start
+2015-10-24 13:49:52 - count 1000
+2015-10-24 13:49:52 - feed 0|4000_ready
+2015-10-24 13:49:52 - start products part#0|5000
+2015-10-24 13:49:52 - feed 0|5000_start
+2015-10-24 13:49:52 - count 375
+2015-10-24 13:49:52 - feed 0|5000_ready
+2015-10-24 13:49:53 - start products part#0|6000
+2015-10-24 13:49:53 - end product part #0
+2015-10-24 13:49:54 - sitemap_start-----------------------
+2015-10-24 13:49:54 - base_start
+2015-10-24 13:49:54 - --categories set start--
+2015-10-24 13:49:54 - --categories set end--
+2015-10-24 13:49:54 - manufacturer disabled
+2015-10-24 13:49:54 - --information set start--
+2015-10-24 13:49:54 - --information set end--
+2015-10-24 13:49:54 - --information set start--
+2015-10-24 13:49:54 - --information set end--
+2015-10-24 13:49:54 - base_end
+2015-10-24 13:49:54 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:49:54 - total time: 0.18560695648193
+2015-10-24 13:53:13 - start products part #0
+2015-10-24 13:53:13 - start products part#0|0
+2015-10-24 13:53:13 - feed 0|0_start
+2015-10-24 13:53:14 - count 1000
+2015-10-24 13:53:14 - feed 0|0_ready
+2015-10-24 13:53:14 - start products part#0|1000
+2015-10-24 13:53:14 - feed 0|1000_start
+2015-10-24 13:53:14 - count 1000
+2015-10-24 13:53:14 - feed 0|1000_ready
+2015-10-24 13:53:15 - start products part#0|2000
+2015-10-24 13:53:15 - feed 0|2000_start
+2015-10-24 13:53:15 - count 1000
+2015-10-24 13:53:15 - feed 0|2000_ready
+2015-10-24 13:53:16 - start products part#0|3000
+2015-10-24 13:53:16 - feed 0|3000_start
+2015-10-24 13:53:16 - count 1000
+2015-10-24 13:53:16 - feed 0|3000_ready
+2015-10-24 13:53:17 - start products part#0|4000
+2015-10-24 13:53:17 - feed 0|4000_start
+2015-10-24 13:53:17 - count 1000
+2015-10-24 13:53:17 - feed 0|4000_ready
+2015-10-24 13:53:18 - start products part#0|5000
+2015-10-24 13:53:18 - feed 0|5000_start
+2015-10-24 13:53:18 - count 375
+2015-10-24 13:53:18 - feed 0|5000_ready
+2015-10-24 13:53:18 - start products part#0|6000
+2015-10-24 13:53:18 - end product part #0
+2015-10-24 13:53:19 - sitemap_start-----------------------
+2015-10-24 13:53:19 - base_start
+2015-10-24 13:53:19 - --categories set start--
+2015-10-24 13:53:19 - --categories set end--
+2015-10-24 13:53:19 - manufacturer disabled
+2015-10-24 13:53:19 - --information set start--
+2015-10-24 13:53:19 - --information set end--
+2015-10-24 13:53:19 - --information set start--
+2015-10-24 13:53:19 - --information set end--
+2015-10-24 13:53:19 - base_end
+2015-10-24 13:53:19 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:53:19 - total time: 0.12995505332947
+2015-10-24 13:55:21 - start products part #0
+2015-10-24 13:55:21 - start products part#0|0
+2015-10-24 13:55:21 - feed 0|0_start
+2015-10-24 13:55:22 - count 1000
+2015-10-24 13:55:22 - feed 0|0_ready
+2015-10-24 13:55:22 - start products part#0|1000
+2015-10-24 13:55:22 - feed 0|1000_start
+2015-10-24 13:55:23 - count 1000
+2015-10-24 13:55:23 - feed 0|1000_ready
+2015-10-24 13:55:23 - start products part#0|2000
+2015-10-24 13:55:23 - feed 0|2000_start
+2015-10-24 13:55:24 - count 1000
+2015-10-24 13:55:24 - feed 0|2000_ready
+2015-10-24 13:55:24 - start products part#0|3000
+2015-10-24 13:55:24 - feed 0|3000_start
+2015-10-24 13:55:25 - count 1000
+2015-10-24 13:55:25 - feed 0|3000_ready
+2015-10-24 13:55:25 - start products part#0|4000
+2015-10-24 13:55:25 - feed 0|4000_start
+2015-10-24 13:55:26 - count 1000
+2015-10-24 13:55:26 - feed 0|4000_ready
+2015-10-24 13:55:26 - start products part#0|5000
+2015-10-24 13:55:26 - feed 0|5000_start
+2015-10-24 13:55:27 - count 375
+2015-10-24 13:55:27 - feed 0|5000_ready
+2015-10-24 13:55:27 - start products part#0|6000
+2015-10-24 13:55:27 - end product part #0
+2015-10-24 13:55:28 - sitemap_start-----------------------
+2015-10-24 13:55:28 - base_start
+2015-10-24 13:55:28 - --categories set start--
+2015-10-24 13:55:28 - --categories set end--
+2015-10-24 13:55:28 - manufacturer disabled
+2015-10-24 13:55:28 - --information set start--
+2015-10-24 13:55:28 - --information set end--
+2015-10-24 13:55:28 - --information set start--
+2015-10-24 13:55:28 - --information set end--
+2015-10-24 13:55:28 - base_end
+2015-10-24 13:55:28 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 13:55:28 - total time: 0.17093706130981
+2015-10-24 14:21:34 - start products part #0
+2015-10-24 14:21:34 - start products part#0|0
+2015-10-24 14:21:34 - feed 0|0_start
+2015-10-24 14:21:36 - count 1000
+2015-10-24 14:21:36 - feed 0|0_ready
+2015-10-24 14:21:36 - start products part#0|1000
+2015-10-24 14:21:36 - feed 0|1000_start
+2015-10-24 14:21:37 - count 1000
+2015-10-24 14:21:37 - feed 0|1000_ready
+2015-10-24 14:21:37 - start products part#0|2000
+2015-10-24 14:21:37 - feed 0|2000_start
+2015-10-24 14:21:40 - count 1000
+2015-10-24 14:21:40 - feed 0|2000_ready
+2015-10-24 14:21:40 - start products part#0|3000
+2015-10-24 14:21:40 - feed 0|3000_start
+2015-10-24 14:21:43 - count 1000
+2015-10-24 14:21:43 - feed 0|3000_ready
+2015-10-24 14:21:43 - start products part#0|4000
+2015-10-24 14:21:44 - feed 0|4000_start
+2015-10-24 14:21:47 - count 1000
+2015-10-24 14:21:47 - feed 0|4000_ready
+2015-10-24 14:21:47 - start products part#0|5000
+2015-10-24 14:21:47 - feed 0|5000_start
+2015-10-24 14:21:48 - count 375
+2015-10-24 14:21:48 - feed 0|5000_ready
+2015-10-24 14:21:48 - start products part#0|6000
+2015-10-24 14:21:48 - sitemap_start-----------------------
+2015-10-24 14:21:48 - base_start
+2015-10-24 14:21:48 - --categories set start--
+2015-10-24 14:21:48 - --categories set end--
+2015-10-24 14:21:48 - manufacturer disabled
+2015-10-24 14:21:48 - --information set start--
+2015-10-24 14:21:48 - --information set end--
+2015-10-24 14:21:48 - --information set start--
+2015-10-24 14:21:48 - --information set end--
+2015-10-24 14:21:48 - base_end
+2015-10-24 14:21:48 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:21:48 - total time: 0.20220303535461
+2015-10-24 14:21:48 - end product part #0
+2015-10-24 14:38:22 - start products part #0
+2015-10-24 14:38:22 - start products part#0|0
+2015-10-24 14:38:22 - feed 0|0_start
+2015-10-24 14:38:23 - count 1000
+2015-10-24 14:38:23 - feed 0|0_ready
+2015-10-24 14:38:23 - start products part#0|1000
+2015-10-24 14:38:23 - feed 0|1000_start
+2015-10-24 14:38:24 - count 1000
+2015-10-24 14:38:24 - feed 0|1000_ready
+2015-10-24 14:38:24 - start products part#0|2000
+2015-10-24 14:38:24 - feed 0|2000_start
+2015-10-24 14:38:25 - count 1000
+2015-10-24 14:38:25 - feed 0|2000_ready
+2015-10-24 14:38:25 - start products part#0|3000
+2015-10-24 14:38:25 - feed 0|3000_start
+2015-10-24 14:38:27 - count 1000
+2015-10-24 14:38:27 - feed 0|3000_ready
+2015-10-24 14:38:27 - start products part#0|4000
+2015-10-24 14:38:27 - feed 0|4000_start
+2015-10-24 14:38:29 - count 1000
+2015-10-24 14:38:29 - feed 0|4000_ready
+2015-10-24 14:38:30 - start products part#0|5000
+2015-10-24 14:38:30 - feed 0|5000_start
+2015-10-24 14:38:30 - count 375
+2015-10-24 14:38:30 - feed 0|5000_ready
+2015-10-24 14:38:30 - start products part#0|6000
+2015-10-24 14:38:31 - sitemap_start-----------------------
+2015-10-24 14:38:31 - base_start
+2015-10-24 14:38:31 - --categories set start--
+2015-10-24 14:38:31 - --categories set end--
+2015-10-24 14:38:31 - manufacturer disabled
+2015-10-24 14:38:31 - --information set start--
+2015-10-24 14:38:31 - --information set end--
+2015-10-24 14:38:31 - --information set start--
+2015-10-24 14:38:31 - --information set end--
+2015-10-24 14:38:31 - base_end
+2015-10-24 14:38:31 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:38:31 - total time: 0.15021800994873
+2015-10-24 14:38:31 - end product part #0
+2015-10-24 14:39:38 - start products part #0
+2015-10-24 14:39:38 - start products part#0|0
+2015-10-24 14:39:38 - feed 0|0_start
+2015-10-24 14:39:38 - count 1000
+2015-10-24 14:39:38 - feed 0|0_ready
+2015-10-24 14:39:39 - start products part#0|1000
+2015-10-24 14:39:39 - feed 0|1000_start
+2015-10-24 14:39:39 - count 1000
+2015-10-24 14:39:39 - feed 0|1000_ready
+2015-10-24 14:39:40 - start products part#0|2000
+2015-10-24 14:39:40 - feed 0|2000_start
+2015-10-24 14:39:40 - count 1000
+2015-10-24 14:39:40 - feed 0|2000_ready
+2015-10-24 14:39:40 - start products part#0|3000
+2015-10-24 14:39:40 - feed 0|3000_start
+2015-10-24 14:39:41 - count 1000
+2015-10-24 14:39:41 - feed 0|3000_ready
+2015-10-24 14:39:41 - start products part#0|4000
+2015-10-24 14:39:41 - feed 0|4000_start
+2015-10-24 14:39:42 - count 1000
+2015-10-24 14:39:42 - feed 0|4000_ready
+2015-10-24 14:39:42 - start products part#0|5000
+2015-10-24 14:39:42 - feed 0|5000_start
+2015-10-24 14:39:42 - count 375
+2015-10-24 14:39:42 - feed 0|5000_ready
+2015-10-24 14:39:42 - start products part#0|6000
+2015-10-24 14:39:42 - sitemap_start-----------------------
+2015-10-24 14:39:42 - base_start
+2015-10-24 14:39:42 - --categories set start--
+2015-10-24 14:39:42 - --categories set end--
+2015-10-24 14:39:42 - manufacturer disabled
+2015-10-24 14:39:42 - --information set start--
+2015-10-24 14:39:42 - --information set end--
+2015-10-24 14:39:42 - --information set start--
+2015-10-24 14:39:42 - --information set end--
+2015-10-24 14:39:42 - base_end
+2015-10-24 14:39:42 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:39:42 - total time: 0.12680912017822
+2015-10-24 14:39:42 - end product part #0
+2015-10-24 14:50:21 - start products part #0
+2015-10-24 14:50:21 - start products part#0|0
+2015-10-24 14:50:21 - feed 0|0_start
+2015-10-24 14:50:23 - count 1000
+2015-10-24 14:50:23 - feed 0|0_ready
+2015-10-24 14:50:24 - start products part#0|1000
+2015-10-24 14:50:24 - feed 0|1000_start
+2015-10-24 14:50:27 - count 1000
+2015-10-24 14:50:27 - feed 0|1000_ready
+2015-10-24 14:50:27 - start products part#0|2000
+2015-10-24 14:50:27 - feed 0|2000_start
+2015-10-24 14:50:29 - count 1000
+2015-10-24 14:50:29 - feed 0|2000_ready
+2015-10-24 14:50:29 - start products part#0|3000
+2015-10-24 14:50:29 - feed 0|3000_start
+2015-10-24 14:50:33 - count 1000
+2015-10-24 14:50:33 - feed 0|3000_ready
+2015-10-24 14:50:33 - start products part#0|4000
+2015-10-24 14:50:33 - feed 0|4000_start
+2015-10-24 14:50:38 - count 1000
+2015-10-24 14:50:38 - feed 0|4000_ready
+2015-10-24 14:50:38 - start products part#0|5000
+2015-10-24 14:50:38 - feed 0|5000_start
+2015-10-24 14:50:40 - count 375
+2015-10-24 14:50:40 - feed 0|5000_ready
+2015-10-24 14:50:40 - start products part#0|6000
+2015-10-24 14:50:40 - sitemap_start-----------------------
+2015-10-24 14:50:40 - base_start
+2015-10-24 14:50:40 - --categories set start--
+2015-10-24 14:50:40 - --categories set end--
+2015-10-24 14:50:40 - manufacturer disabled
+2015-10-24 14:50:40 - --information set start--
+2015-10-24 14:50:40 - --information set end--
+2015-10-24 14:50:40 - --information set start--
+2015-10-24 14:50:40 - end product part #0
+2015-10-24 14:53:28 - start products part #0
+2015-10-24 14:53:28 - start products part#0|0
+2015-10-24 14:53:28 - feed 0|0_start
+2015-10-24 14:53:30 - count 1000
+2015-10-24 14:53:30 - feed 0|0_ready
+2015-10-24 14:53:30 - start products part#0|1000
+2015-10-24 14:53:30 - feed 0|1000_start
+2015-10-24 14:53:33 - count 1000
+2015-10-24 14:53:33 - feed 0|1000_ready
+2015-10-24 14:53:33 - start products part#0|2000
+2015-10-24 14:53:33 - feed 0|2000_start
+2015-10-24 14:53:36 - count 1000
+2015-10-24 14:53:36 - feed 0|2000_ready
+2015-10-24 14:53:36 - start products part#0|3000
+2015-10-24 14:53:37 - feed 0|3000_start
+2015-10-24 14:53:41 - count 1000
+2015-10-24 14:53:41 - feed 0|3000_ready
+2015-10-24 14:53:41 - start products part#0|4000
+2015-10-24 14:53:41 - feed 0|4000_start
+2015-10-24 14:53:46 - count 1000
+2015-10-24 14:53:46 - feed 0|4000_ready
+2015-10-24 14:53:46 - start products part#0|5000
+2015-10-24 14:53:46 - feed 0|5000_start
+2015-10-24 14:53:48 - count 375
+2015-10-24 14:53:48 - feed 0|5000_ready
+2015-10-24 14:53:48 - start products part#0|6000
+2015-10-24 14:53:48 - sitemap_start-----------------------
+2015-10-24 14:53:48 - base_start
+2015-10-24 14:53:48 - --categories set start--
+2015-10-24 14:53:48 - --categories set end--
+2015-10-24 14:53:48 - manufacturer disabled
+2015-10-24 14:53:48 - --information set start--
+2015-10-24 14:53:48 - --information set end--
+2015-10-24 14:53:48 - --information set start--
+2015-10-24 14:53:48 - --information set end--
+2015-10-24 14:53:48 - base_end
+2015-10-24 14:53:48 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:53:48 - total time: 0.17649102210999
+2015-10-24 14:53:49 - end product part #0
+2015-10-24 14:55:05 - start products part #0
+2015-10-24 14:55:05 - start products part#0|0
+2015-10-24 14:55:05 - feed 0|0_start
+2015-10-24 14:55:09 - count 1000
+2015-10-24 14:55:09 - feed 0|0_ready
+2015-10-24 14:55:10 - start products part#0|1000
+2015-10-24 14:55:10 - feed 0|1000_start
+2015-10-24 14:55:15 - count 1000
+2015-10-24 14:55:15 - feed 0|1000_ready
+2015-10-24 14:55:16 - start products part#0|2000
+2015-10-24 14:55:16 - feed 0|2000_start
+2015-10-24 14:55:19 - count 1000
+2015-10-24 14:55:19 - feed 0|2000_ready
+2015-10-24 14:55:19 - start products part#0|3000
+2015-10-24 14:55:19 - feed 0|3000_start
+2015-10-24 14:55:23 - count 1000
+2015-10-24 14:55:23 - feed 0|3000_ready
+2015-10-24 14:55:23 - start products part#0|4000
+2015-10-24 14:55:23 - feed 0|4000_start
+2015-10-24 14:55:28 - count 1000
+2015-10-24 14:55:28 - feed 0|4000_ready
+2015-10-24 14:55:28 - start products part#0|5000
+2015-10-24 14:55:28 - feed 0|5000_start
+2015-10-24 14:55:30 - count 375
+2015-10-24 14:55:30 - feed 0|5000_ready
+2015-10-24 14:55:30 - start products part#0|6000
+2015-10-24 14:55:31 - sitemap_start-----------------------
+2015-10-24 14:55:31 - base_start
+2015-10-24 14:55:31 - --categories set start--
+2015-10-24 14:55:31 - --categories set end--
+2015-10-24 14:55:31 - manufacturer disabled
+2015-10-24 14:55:31 - --information set start--
+2015-10-24 14:55:31 - --information set end--
+2015-10-24 14:55:31 - --information set start--
+2015-10-24 14:55:31 - --information set end--
+2015-10-24 14:55:31 - base_end
+2015-10-24 14:55:31 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:55:31 - total time: 0.33730792999268
+2015-10-24 14:55:31 - end product part #0
+2015-10-24 14:58:15 - start products part #0
+2015-10-24 14:58:15 - start products part#0|0
+2015-10-24 14:58:15 - feed 0|0_start
+2015-10-24 14:58:16 - count 1000
+2015-10-24 14:58:16 - feed 0|0_ready
+2015-10-24 14:58:17 - start products part#0|1000
+2015-10-24 14:58:17 - feed 0|1000_start
+2015-10-24 14:58:18 - count 1000
+2015-10-24 14:58:18 - feed 0|1000_ready
+2015-10-24 14:58:18 - start products part#0|2000
+2015-10-24 14:58:18 - feed 0|2000_start
+2015-10-24 14:58:21 - count 1000
+2015-10-24 14:58:21 - feed 0|2000_ready
+2015-10-24 14:58:21 - start products part#0|3000
+2015-10-24 14:58:21 - feed 0|3000_start
+2015-10-24 14:58:23 - count 1000
+2015-10-24 14:58:23 - feed 0|3000_ready
+2015-10-24 14:58:23 - start products part#0|4000
+2015-10-24 14:58:23 - feed 0|4000_start
+2015-10-24 14:58:25 - count 1000
+2015-10-24 14:58:25 - feed 0|4000_ready
+2015-10-24 14:58:25 - start products part#0|5000
+2015-10-24 14:58:25 - feed 0|5000_start
+2015-10-24 14:58:26 - count 375
+2015-10-24 14:58:26 - feed 0|5000_ready
+2015-10-24 14:58:26 - start products part#0|6000
+2015-10-24 14:58:27 - sitemap_start-----------------------
+2015-10-24 14:58:27 - base_start
+2015-10-24 14:58:27 - --categories set start--
+2015-10-24 14:58:27 - --categories set end--
+2015-10-24 14:58:27 - manufacturer disabled
+2015-10-24 14:58:27 - --information set start--
+2015-10-24 14:58:27 - --information set end--
+2015-10-24 14:58:27 - --information set start--
+2015-10-24 14:58:27 - --information set end--
+2015-10-24 14:58:27 - base_end
+2015-10-24 14:58:27 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 14:58:27 - total time: 0.17080187797546
+2015-10-24 14:58:27 - end product part #0
+2015-10-24 15:02:17 - start products part #0
+2015-10-24 15:02:17 - start products part#0|0
+2015-10-24 15:02:17 - feed 0|0_start
+2015-10-24 15:02:18 - count 1000
+2015-10-24 15:02:18 - feed 0|0_ready
+2015-10-24 15:02:18 - start products part#0|1000
+2015-10-24 15:02:18 - feed 0|1000_start
+2015-10-24 15:02:20 - count 1000
+2015-10-24 15:02:20 - feed 0|1000_ready
+2015-10-24 15:02:20 - start products part#0|2000
+2015-10-24 15:02:20 - feed 0|2000_start
+2015-10-24 15:02:21 - count 1000
+2015-10-24 15:02:21 - feed 0|2000_ready
+2015-10-24 15:02:22 - start products part#0|3000
+2015-10-24 15:02:22 - feed 0|3000_start
+2015-10-24 15:02:24 - count 1000
+2015-10-24 15:02:24 - feed 0|3000_ready
+2015-10-24 15:02:24 - start products part#0|4000
+2015-10-24 15:02:24 - feed 0|4000_start
+2015-10-24 15:02:27 - count 1000
+2015-10-24 15:02:27 - feed 0|4000_ready
+2015-10-24 15:02:27 - start products part#0|5000
+2015-10-24 15:02:27 - feed 0|5000_start
+2015-10-24 15:02:28 - count 375
+2015-10-24 15:02:28 - feed 0|5000_ready
+2015-10-24 15:02:28 - start products part#0|6000
+2015-10-24 15:02:28 - end product part #0
+2015-10-24 15:02:28 - sitemap_start-----------------------
+2015-10-24 15:02:28 - base_start
+2015-10-24 15:02:28 - --categories set start--
+2015-10-24 15:02:28 - --categories set end--
+2015-10-24 15:02:28 - manufacturer disabled
+2015-10-24 15:02:28 - --information set start--
+2015-10-24 15:02:28 - --information set end--
+2015-10-24 15:02:28 - --information set start--
+2015-10-24 15:02:28 - --information set end--
+2015-10-24 15:02:28 - base_end
+2015-10-24 15:02:28 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:02:28 - total time: 0.13588690757751
+2015-10-24 15:05:55 - start products part #0
+2015-10-24 15:05:55 - start products part#0|0
+2015-10-24 15:05:55 - feed 0|0_start
+2015-10-24 15:05:56 - count 1000
+2015-10-24 15:05:56 - feed 0|0_ready
+2015-10-24 15:05:56 - start products part#0|1000
+2015-10-24 15:05:56 - feed 0|1000_start
+2015-10-24 15:05:57 - count 1000
+2015-10-24 15:05:57 - feed 0|1000_ready
+2015-10-24 15:05:57 - start products part#0|2000
+2015-10-24 15:05:57 - feed 0|2000_start
+2015-10-24 15:05:58 - count 1000
+2015-10-24 15:05:58 - feed 0|2000_ready
+2015-10-24 15:05:58 - start products part#0|3000
+2015-10-24 15:05:58 - feed 0|3000_start
+2015-10-24 15:05:59 - count 1000
+2015-10-24 15:05:59 - feed 0|3000_ready
+2015-10-24 15:05:59 - start products part#0|4000
+2015-10-24 15:05:59 - feed 0|4000_start
+2015-10-24 15:06:00 - count 1000
+2015-10-24 15:06:00 - feed 0|4000_ready
+2015-10-24 15:06:00 - start products part#0|5000
+2015-10-24 15:06:00 - feed 0|5000_start
+2015-10-24 15:06:00 - count 375
+2015-10-24 15:06:00 - feed 0|5000_ready
+2015-10-24 15:06:00 - start products part#0|6000
+2015-10-24 15:06:01 - sitemap_start-----------------------
+2015-10-24 15:06:01 - base_start
+2015-10-24 15:06:01 - --categories set start--
+2015-10-24 15:06:01 - --categories set end--
+2015-10-24 15:06:01 - manufacturer disabled
+2015-10-24 15:06:01 - --information set start--
+2015-10-24 15:06:01 - --information set end--
+2015-10-24 15:06:01 - --information set start--
+2015-10-24 15:06:01 - --information set end--
+2015-10-24 15:06:01 - base_end
+2015-10-24 15:06:01 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:06:01 - total time: 0.18526983261108
+2015-10-24 15:06:01 - end product part #0
+2015-10-24 15:12:06 - start products part #0
+2015-10-24 15:12:06 - start products part#0|0
+2015-10-24 15:12:06 - feed 0|0_start
+2015-10-24 15:12:07 - count 1000
+2015-10-24 15:12:07 - feed 0|0_ready
+2015-10-24 15:12:07 - start products part#0|1000
+2015-10-24 15:12:07 - feed 0|1000_start
+2015-10-24 15:12:08 - count 1000
+2015-10-24 15:12:08 - feed 0|1000_ready
+2015-10-24 15:12:09 - start products part#0|2000
+2015-10-24 15:12:09 - feed 0|2000_start
+2015-10-24 15:12:11 - count 1000
+2015-10-24 15:12:11 - feed 0|2000_ready
+2015-10-24 15:12:11 - start products part#0|3000
+2015-10-24 15:12:11 - feed 0|3000_start
+2015-10-24 15:12:13 - count 1000
+2015-10-24 15:12:13 - feed 0|3000_ready
+2015-10-24 15:12:13 - start products part#0|4000
+2015-10-24 15:12:14 - feed 0|4000_start
+2015-10-24 15:12:17 - count 1000
+2015-10-24 15:12:17 - feed 0|4000_ready
+2015-10-24 15:12:17 - start products part#0|5000
+2015-10-24 15:12:17 - feed 0|5000_start
+2015-10-24 15:12:18 - count 375
+2015-10-24 15:12:18 - feed 0|5000_ready
+2015-10-24 15:12:18 - start products part#0|6000
+2015-10-24 15:12:18 - sitemap_start-----------------------
+2015-10-24 15:12:18 - base_start
+2015-10-24 15:12:18 - --categories set start--
+2015-10-24 15:12:19 - --categories set end--
+2015-10-24 15:12:19 - manufacturer disabled
+2015-10-24 15:12:19 - --information set start--
+2015-10-24 15:12:19 - --information set end--
+2015-10-24 15:12:19 - --information set start--
+2015-10-24 15:12:19 - --information set end--
+2015-10-24 15:12:19 - base_end
+2015-10-24 15:12:19 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:12:19 - total time: 0.21757507324219
+2015-10-24 15:12:19 - end product part #0
+2015-10-24 15:19:41 - start products part #0
+2015-10-24 15:19:42 - start products part#0|0
+2015-10-24 15:19:42 - feed 0|0_start
+2015-10-24 15:19:43 - count 1000
+2015-10-24 15:19:43 - feed 0|0_ready
+2015-10-24 15:19:43 - start products part#0|1000
+2015-10-24 15:19:43 - feed 0|1000_start
+2015-10-24 15:19:44 - count 1000
+2015-10-24 15:19:44 - feed 0|1000_ready
+2015-10-24 15:19:44 - start products part#0|2000
+2015-10-24 15:19:44 - feed 0|2000_start
+2015-10-24 15:19:46 - count 1000
+2015-10-24 15:19:46 - feed 0|2000_ready
+2015-10-24 15:19:46 - start products part#0|3000
+2015-10-24 15:19:46 - feed 0|3000_start
+2015-10-24 15:19:50 - count 1000
+2015-10-24 15:19:50 - feed 0|3000_ready
+2015-10-24 15:19:50 - start products part#0|4000
+2015-10-24 15:19:50 - feed 0|4000_start
+2015-10-24 15:19:54 - count 1000
+2015-10-24 15:19:54 - feed 0|4000_ready
+2015-10-24 15:19:54 - start products part#0|5000
+2015-10-24 15:19:54 - feed 0|5000_start
+2015-10-24 15:19:55 - count 375
+2015-10-24 15:19:55 - feed 0|5000_ready
+2015-10-24 15:19:55 - start products part#0|6000
+2015-10-24 15:19:56 - sitemap_start-----------------------
+2015-10-24 15:19:56 - base_start
+2015-10-24 15:19:56 - --categories set start--
+2015-10-24 15:19:56 - --categories set end--
+2015-10-24 15:19:56 - manufacturer disabled
+2015-10-24 15:19:56 - --information set start--
+2015-10-24 15:19:56 - --information set end--
+2015-10-24 15:19:56 - --information set start--
+2015-10-24 15:19:56 - --information set end--
+2015-10-24 15:19:56 - base_end
+2015-10-24 15:19:56 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:19:56 - total time: 0.5314838886261
+2015-10-24 15:19:57 - end product part #0
+2015-10-24 15:21:02 - start products part #0
+2015-10-24 15:21:02 - start products part#0|0
+2015-10-24 15:21:02 - feed 0|0_start
+2015-10-24 15:21:03 - count 1000
+2015-10-24 15:21:03 - feed 0|0_ready
+2015-10-24 15:21:03 - start products part#0|1000
+2015-10-24 15:21:03 - feed 0|1000_start
+2015-10-24 15:21:05 - count 1000
+2015-10-24 15:21:05 - feed 0|1000_ready
+2015-10-24 15:21:05 - start products part#0|2000
+2015-10-24 15:21:05 - feed 0|2000_start
+2015-10-24 15:21:06 - count 1000
+2015-10-24 15:21:06 - feed 0|2000_ready
+2015-10-24 15:21:06 - start products part#0|3000
+2015-10-24 15:21:06 - feed 0|3000_start
+2015-10-24 15:21:09 - count 1000
+2015-10-24 15:21:09 - feed 0|3000_ready
+2015-10-24 15:21:09 - start products part#0|4000
+2015-10-24 15:21:09 - feed 0|4000_start
+2015-10-24 15:21:13 - count 1000
+2015-10-24 15:21:13 - feed 0|4000_ready
+2015-10-24 15:21:13 - start products part#0|5000
+2015-10-24 15:21:13 - feed 0|5000_start
+2015-10-24 15:21:15 - count 375
+2015-10-24 15:21:15 - feed 0|5000_ready
+2015-10-24 15:21:15 - start products part#0|6000
+2015-10-24 15:21:15 - end product part #0
+2015-10-24 15:21:15 - sitemap_start-----------------------
+2015-10-24 15:21:15 - base_start
+2015-10-24 15:21:15 - --categories set start--
+2015-10-24 15:21:15 - --categories set end--
+2015-10-24 15:21:15 - manufacturer disabled
+2015-10-24 15:21:15 - --information set start--
+2015-10-24 15:21:15 - --information set end--
+2015-10-24 15:21:15 - --information set start--
+2015-10-24 15:21:15 - --information set end--
+2015-10-24 15:21:15 - base_end
+2015-10-24 15:21:15 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:21:15 - total time: 0.19214200973511
+2015-10-24 15:29:07 - start products part #0
+2015-10-24 15:29:07 - start products part#0|0
+2015-10-24 15:29:07 - feed 0|0_start
+2015-10-24 15:29:08 - count 1000
+2015-10-24 15:29:08 - feed 0|0_ready
+2015-10-24 15:29:08 - start products part#0|1000
+2015-10-24 15:29:08 - feed 0|1000_start
+2015-10-24 15:29:08 - count 1000
+2015-10-24 15:29:08 - feed 0|1000_ready
+2015-10-24 15:29:08 - start products part#0|2000
+2015-10-24 15:29:08 - feed 0|2000_start
+2015-10-24 15:29:09 - count 1000
+2015-10-24 15:29:09 - feed 0|2000_ready
+2015-10-24 15:29:09 - start products part#0|3000
+2015-10-24 15:29:09 - feed 0|3000_start
+2015-10-24 15:29:10 - count 1000
+2015-10-24 15:29:10 - feed 0|3000_ready
+2015-10-24 15:29:10 - start products part#0|4000
+2015-10-24 15:29:10 - feed 0|4000_start
+2015-10-24 15:29:11 - count 1000
+2015-10-24 15:29:11 - feed 0|4000_ready
+2015-10-24 15:29:11 - start products part#0|5000
+2015-10-24 15:29:11 - feed 0|5000_start
+2015-10-24 15:29:11 - count 375
+2015-10-24 15:29:11 - feed 0|5000_ready
+2015-10-24 15:29:11 - start products part#0|6000
+2015-10-24 15:29:11 - sitemap_start-----------------------
+2015-10-24 15:29:11 - base_start
+2015-10-24 15:29:11 - --categories set start--
+2015-10-24 15:29:11 - --categories set end--
+2015-10-24 15:29:11 - manufacturer disabled
+2015-10-24 15:29:11 - --information set start--
+2015-10-24 15:29:11 - --information set end--
+2015-10-24 15:29:11 - --information set start--
+2015-10-24 15:29:12 - end product part #0
+2015-10-24 15:29:26 - start products part #0
+2015-10-24 15:29:26 - start products part#0|0
+2015-10-24 15:29:26 - feed 0|0_start
+2015-10-24 15:29:27 - count 1000
+2015-10-24 15:29:27 - feed 0|0_ready
+2015-10-24 15:29:27 - start products part#0|1000
+2015-10-24 15:29:27 - feed 0|1000_start
+2015-10-24 15:29:28 - count 1000
+2015-10-24 15:29:28 - feed 0|1000_ready
+2015-10-24 15:29:28 - start products part#0|2000
+2015-10-24 15:29:28 - feed 0|2000_start
+2015-10-24 15:29:28 - count 1000
+2015-10-24 15:29:28 - feed 0|2000_ready
+2015-10-24 15:29:28 - start products part#0|3000
+2015-10-24 15:29:28 - feed 0|3000_start
+2015-10-24 15:29:29 - count 1000
+2015-10-24 15:29:29 - feed 0|3000_ready
+2015-10-24 15:29:29 - start products part#0|4000
+2015-10-24 15:29:29 - feed 0|4000_start
+2015-10-24 15:29:30 - count 1000
+2015-10-24 15:29:30 - feed 0|4000_ready
+2015-10-24 15:29:30 - start products part#0|5000
+2015-10-24 15:29:30 - feed 0|5000_start
+2015-10-24 15:29:30 - count 375
+2015-10-24 15:29:30 - feed 0|5000_ready
+2015-10-24 15:29:30 - start products part#0|6000
+2015-10-24 15:29:31 - end product part #0
+2015-10-24 15:29:31 - sitemap_start-----------------------
+2015-10-24 15:29:31 - base_start
+2015-10-24 15:29:31 - --categories set start--
+2015-10-24 15:29:31 - --categories set end--
+2015-10-24 15:29:31 - manufacturer disabled
+2015-10-24 15:29:31 - --information set start--
+2015-10-24 15:29:31 - --information set end--
+2015-10-24 15:29:31 - --information set start--
+2015-10-24 15:34:26 - start products part #0
+2015-10-24 15:34:26 - start products part#0|0
+2015-10-24 15:34:26 - feed 0|0_start
+2015-10-24 15:34:26 - count 1000
+2015-10-24 15:34:26 - feed 0|0_ready
+2015-10-24 15:34:26 - start products part#0|1000
+2015-10-24 15:34:26 - feed 0|1000_start
+2015-10-24 15:34:27 - count 1000
+2015-10-24 15:34:27 - feed 0|1000_ready
+2015-10-24 15:34:27 - start products part#0|2000
+2015-10-24 15:34:27 - feed 0|2000_start
+2015-10-24 15:34:28 - count 1000
+2015-10-24 15:34:28 - feed 0|2000_ready
+2015-10-24 15:34:28 - start products part#0|3000
+2015-10-24 15:34:28 - feed 0|3000_start
+2015-10-24 15:34:28 - count 1000
+2015-10-24 15:34:28 - feed 0|3000_ready
+2015-10-24 15:34:28 - start products part#0|4000
+2015-10-24 15:34:28 - feed 0|4000_start
+2015-10-24 15:34:29 - count 1000
+2015-10-24 15:34:29 - feed 0|4000_ready
+2015-10-24 15:34:29 - start products part#0|5000
+2015-10-24 15:34:29 - feed 0|5000_start
+2015-10-24 15:34:30 - count 375
+2015-10-24 15:34:30 - feed 0|5000_ready
+2015-10-24 15:34:30 - start products part#0|6000
+2015-10-24 15:34:30 - end product part #0
+2015-10-24 15:34:30 - sitemap_start-----------------------
+2015-10-24 15:34:30 - base_start
+2015-10-24 15:34:30 - --categories set start--
+2015-10-24 15:34:30 - --categories set end--
+2015-10-24 15:34:30 - manufacturer disabled
+2015-10-24 15:34:30 - --information set start--
+2015-10-24 15:34:30 - --information set end--
+2015-10-24 15:34:30 - --information set start--
+2015-10-24 15:34:30 - --information set end--
+2015-10-24 15:34:30 - base_end
+2015-10-24 15:34:30 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:34:30 - total time: 0.14955878257751
+2015-10-24 15:37:33 - start products part #0
+2015-10-24 15:37:33 - start products part#0|0
+2015-10-24 15:37:33 - feed 0|0_start
+2015-10-24 15:37:34 - count 1000
+2015-10-24 15:37:34 - feed 0|0_ready
+2015-10-24 15:37:34 - start products part#0|1000
+2015-10-24 15:37:34 - feed 0|1000_start
+2015-10-24 15:37:35 - count 1000
+2015-10-24 15:37:35 - feed 0|1000_ready
+2015-10-24 15:37:35 - start products part#0|2000
+2015-10-24 15:37:35 - feed 0|2000_start
+2015-10-24 15:37:35 - count 1000
+2015-10-24 15:37:35 - feed 0|2000_ready
+2015-10-24 15:37:35 - start products part#0|3000
+2015-10-24 15:37:35 - feed 0|3000_start
+2015-10-24 15:37:36 - count 1000
+2015-10-24 15:37:36 - feed 0|3000_ready
+2015-10-24 15:37:36 - start products part#0|4000
+2015-10-24 15:37:36 - feed 0|4000_start
+2015-10-24 15:37:37 - count 1000
+2015-10-24 15:37:37 - feed 0|4000_ready
+2015-10-24 15:37:37 - start products part#0|5000
+2015-10-24 15:37:37 - feed 0|5000_start
+2015-10-24 15:37:38 - count 375
+2015-10-24 15:37:38 - feed 0|5000_ready
+2015-10-24 15:37:38 - start products part#0|6000
+2015-10-24 15:37:38 - end product part #0
+2015-10-24 15:37:38 - sitemap_start-----------------------
+2015-10-24 15:37:38 - base_start
+2015-10-24 15:37:38 - --categories set start--
+2015-10-24 15:37:38 - --categories set end--
+2015-10-24 15:37:38 - manufacturer disabled
+2015-10-24 15:37:38 - --information set start--
+2015-10-24 15:37:38 - --information set end--
+2015-10-24 15:37:38 - --information set start--
+2015-10-24 15:37:38 - --information set end--
+2015-10-24 15:37:38 - base_end
+2015-10-24 15:37:38 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:37:38 - total time: 0.14488410949707
+2015-10-24 15:47:38 - start products part #0
+2015-10-24 15:47:38 - start products part#0|0
+2015-10-24 15:47:38 - feed 0|0_start
+2015-10-24 15:47:39 - count 1000
+2015-10-24 15:47:39 - feed 0|0_ready
+2015-10-24 15:47:39 - start products part#0|1000
+2015-10-24 15:47:39 - feed 0|1000_start
+2015-10-24 15:47:40 - count 1000
+2015-10-24 15:47:40 - feed 0|1000_ready
+2015-10-24 15:47:40 - start products part#0|2000
+2015-10-24 15:47:40 - feed 0|2000_start
+2015-10-24 15:47:41 - count 1000
+2015-10-24 15:47:41 - feed 0|2000_ready
+2015-10-24 15:47:42 - start products part#0|3000
+2015-10-24 15:47:42 - feed 0|3000_start
+2015-10-24 15:47:44 - count 1000
+2015-10-24 15:47:44 - feed 0|3000_ready
+2015-10-24 15:47:44 - start products part#0|4000
+2015-10-24 15:47:44 - feed 0|4000_start
+2015-10-24 15:47:46 - count 1000
+2015-10-24 15:47:46 - feed 0|4000_ready
+2015-10-24 15:47:47 - start products part#0|5000
+2015-10-24 15:47:47 - feed 0|5000_start
+2015-10-24 15:47:47 - count 375
+2015-10-24 15:47:47 - feed 0|5000_ready
+2015-10-24 15:47:47 - start products part#0|6000
+2015-10-24 15:47:48 - sitemap_start-----------------------
+2015-10-24 15:47:48 - base_start
+2015-10-24 15:47:48 - --categories set start--
+2015-10-24 15:47:48 - --categories set end--
+2015-10-24 15:47:48 - manufacturer disabled
+2015-10-24 15:47:48 - --information set start--
+2015-10-24 15:47:48 - --information set end--
+2015-10-24 15:47:48 - --information set start--
+2015-10-24 15:47:48 - --information set end--
+2015-10-24 15:47:48 - base_end
+2015-10-24 15:47:48 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:47:48 - total time: 0.12976002693176
+2015-10-24 15:47:48 - end product part #0
+2015-10-24 15:52:01 - start products part #0
+2015-10-24 15:52:01 - start products part#0|0
+2015-10-24 15:52:01 - feed 0|0_start
+2015-10-24 15:52:01 - count 1000
+2015-10-24 15:52:01 - feed 0|0_ready
+2015-10-24 15:52:01 - start products part#0|1000
+2015-10-24 15:52:01 - feed 0|1000_start
+2015-10-24 15:52:02 - count 1000
+2015-10-24 15:52:02 - feed 0|1000_ready
+2015-10-24 15:52:02 - start products part#0|2000
+2015-10-24 15:52:02 - feed 0|2000_start
+2015-10-24 15:52:03 - count 1000
+2015-10-24 15:52:03 - feed 0|2000_ready
+2015-10-24 15:52:03 - start products part#0|3000
+2015-10-24 15:52:03 - feed 0|3000_start
+2015-10-24 15:52:03 - count 1000
+2015-10-24 15:52:03 - feed 0|3000_ready
+2015-10-24 15:52:03 - start products part#0|4000
+2015-10-24 15:52:03 - feed 0|4000_start
+2015-10-24 15:52:04 - count 1000
+2015-10-24 15:52:04 - feed 0|4000_ready
+2015-10-24 15:52:04 - start products part#0|5000
+2015-10-24 15:52:04 - feed 0|5000_start
+2015-10-24 15:52:04 - count 375
+2015-10-24 15:52:04 - feed 0|5000_ready
+2015-10-24 15:52:04 - start products part#0|6000
+2015-10-24 15:52:04 - sitemap_start-----------------------
+2015-10-24 15:52:04 - base_start
+2015-10-24 15:52:04 - --categories set start--
+2015-10-24 15:52:04 - --categories set end--
+2015-10-24 15:52:04 - manufacturer disabled
+2015-10-24 15:52:04 - --information set start--
+2015-10-24 15:52:04 - --information set end--
+2015-10-24 15:52:04 - --information set start--
+2015-10-24 15:52:04 - --information set end--
+2015-10-24 15:52:04 - base_end
+2015-10-24 15:52:04 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:52:04 - total time: 0.093851089477539
+2015-10-24 15:52:04 - end product part #0
+2015-10-24 15:53:45 - start products part #0
+2015-10-24 15:53:45 - start products part#0|0
+2015-10-24 15:53:45 - feed 0|0_start
+2015-10-24 15:53:45 - count 1000
+2015-10-24 15:53:45 - feed 0|0_ready
+2015-10-24 15:53:46 - start products part#0|1000
+2015-10-24 15:53:46 - feed 0|1000_start
+2015-10-24 15:53:46 - count 1000
+2015-10-24 15:53:46 - feed 0|1000_ready
+2015-10-24 15:53:47 - start products part#0|2000
+2015-10-24 15:53:47 - feed 0|2000_start
+2015-10-24 15:53:47 - count 1000
+2015-10-24 15:53:47 - feed 0|2000_ready
+2015-10-24 15:53:47 - start products part#0|3000
+2015-10-24 15:53:47 - feed 0|3000_start
+2015-10-24 15:53:48 - count 1000
+2015-10-24 15:53:48 - feed 0|3000_ready
+2015-10-24 15:53:48 - start products part#0|4000
+2015-10-24 15:53:48 - feed 0|4000_start
+2015-10-24 15:53:49 - count 1000
+2015-10-24 15:53:49 - feed 0|4000_ready
+2015-10-24 15:53:50 - start products part#0|5000
+2015-10-24 15:53:50 - feed 0|5000_start
+2015-10-24 15:53:50 - count 375
+2015-10-24 15:53:50 - feed 0|5000_ready
+2015-10-24 15:53:50 - start products part#0|6000
+2015-10-24 15:53:50 - sitemap_start-----------------------
+2015-10-24 15:53:50 - base_start
+2015-10-24 15:53:50 - --categories set start--
+2015-10-24 15:53:50 - --categories set end--
+2015-10-24 15:53:50 - manufacturer disabled
+2015-10-24 15:53:50 - --information set start--
+2015-10-24 15:53:50 - --information set end--
+2015-10-24 15:53:50 - --information set start--
+2015-10-24 15:53:50 - --information set end--
+2015-10-24 15:53:50 - base_end
+2015-10-24 15:53:50 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:53:50 - total time: 0.2332980632782
+2015-10-24 15:53:50 - end product part #0
+2015-10-24 15:55:06 - start products part #0
+2015-10-24 15:55:06 - start products part#0|0
+2015-10-24 15:55:06 - feed 0|0_start
+2015-10-24 15:55:06 - count 1000
+2015-10-24 15:55:06 - feed 0|0_ready
+2015-10-24 15:55:06 - start products part#0|1000
+2015-10-24 15:55:06 - feed 0|1000_start
+2015-10-24 15:55:07 - count 1000
+2015-10-24 15:55:07 - feed 0|1000_ready
+2015-10-24 15:55:07 - start products part#0|2000
+2015-10-24 15:55:07 - feed 0|2000_start
+2015-10-24 15:55:08 - count 1000
+2015-10-24 15:55:08 - feed 0|2000_ready
+2015-10-24 15:55:08 - start products part#0|3000
+2015-10-24 15:55:08 - feed 0|3000_start
+2015-10-24 15:55:08 - count 1000
+2015-10-24 15:55:08 - feed 0|3000_ready
+2015-10-24 15:55:08 - start products part#0|4000
+2015-10-24 15:55:08 - feed 0|4000_start
+2015-10-24 15:55:09 - count 1000
+2015-10-24 15:55:09 - feed 0|4000_ready
+2015-10-24 15:55:09 - start products part#0|5000
+2015-10-24 15:55:09 - feed 0|5000_start
+2015-10-24 15:55:09 - count 375
+2015-10-24 15:55:09 - feed 0|5000_ready
+2015-10-24 15:55:10 - start products part#0|6000
+2015-10-24 15:55:10 - sitemap_start-----------------------
+2015-10-24 15:55:10 - base_start
+2015-10-24 15:55:10 - --categories set start--
+2015-10-24 15:55:10 - --categories set end--
+2015-10-24 15:55:10 - manufacturer disabled
+2015-10-24 15:55:10 - --information set start--
+2015-10-24 15:55:10 - --information set end--
+2015-10-24 15:55:10 - --information set start--
+2015-10-24 15:55:10 - --information set end--
+2015-10-24 15:55:10 - base_end
+2015-10-24 15:55:10 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:55:10 - total time: 0.12665295600891
+2015-10-24 15:55:10 - end product part #0
+2015-10-24 15:57:41 - start products part #0
+2015-10-24 15:57:41 - start products part#0|0
+2015-10-24 15:57:41 - feed 0|0_start
+2015-10-24 15:57:42 - count 1000
+2015-10-24 15:57:42 - feed 0|0_ready
+2015-10-24 15:57:42 - start products part#0|1000
+2015-10-24 15:57:42 - feed 0|1000_start
+2015-10-24 15:57:43 - count 1000
+2015-10-24 15:57:43 - feed 0|1000_ready
+2015-10-24 15:57:43 - start products part#0|2000
+2015-10-24 15:57:43 - feed 0|2000_start
+2015-10-24 15:57:44 - count 1000
+2015-10-24 15:57:44 - feed 0|2000_ready
+2015-10-24 15:57:44 - start products part#0|3000
+2015-10-24 15:57:44 - feed 0|3000_start
+2015-10-24 15:57:45 - count 1000
+2015-10-24 15:57:45 - feed 0|3000_ready
+2015-10-24 15:57:45 - start products part#0|4000
+2015-10-24 15:57:45 - feed 0|4000_start
+2015-10-24 15:57:45 - count 1000
+2015-10-24 15:57:45 - feed 0|4000_ready
+2015-10-24 15:57:45 - start products part#0|5000
+2015-10-24 15:57:45 - feed 0|5000_start
+2015-10-24 15:57:46 - count 375
+2015-10-24 15:57:46 - feed 0|5000_ready
+2015-10-24 15:57:46 - start products part#0|6000
+2015-10-24 15:57:46 - end product part #0
+2015-10-24 15:57:46 - sitemap_start-----------------------
+2015-10-24 15:57:46 - base_start
+2015-10-24 15:57:46 - --categories set start--
+2015-10-24 15:57:46 - --categories set end--
+2015-10-24 15:57:46 - manufacturer disabled
+2015-10-24 15:57:46 - --information set start--
+2015-10-24 15:57:46 - --information set end--
+2015-10-24 15:57:46 - --information set start--
+2015-10-24 15:57:46 - --information set end--
+2015-10-24 15:57:46 - base_end
+2015-10-24 15:57:46 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:57:46 - total time: 0.095249891281128
+2015-10-24 15:58:31 - start products part #0
+2015-10-24 15:58:31 - start products part#0|0
+2015-10-24 15:58:31 - feed 0|0_start
+2015-10-24 15:58:32 - count 1000
+2015-10-24 15:58:32 - feed 0|0_ready
+2015-10-24 15:58:32 - start products part#0|1000
+2015-10-24 15:58:32 - feed 0|1000_start
+2015-10-24 15:58:32 - count 1000
+2015-10-24 15:58:32 - feed 0|1000_ready
+2015-10-24 15:58:32 - start products part#0|2000
+2015-10-24 15:58:32 - feed 0|2000_start
+2015-10-24 15:58:33 - count 1000
+2015-10-24 15:58:33 - feed 0|2000_ready
+2015-10-24 15:58:33 - start products part#0|3000
+2015-10-24 15:58:33 - feed 0|3000_start
+2015-10-24 15:58:34 - count 1000
+2015-10-24 15:58:34 - feed 0|3000_ready
+2015-10-24 15:58:34 - start products part#0|4000
+2015-10-24 15:58:34 - feed 0|4000_start
+2015-10-24 15:58:35 - count 1000
+2015-10-24 15:58:35 - feed 0|4000_ready
+2015-10-24 15:58:35 - start products part#0|5000
+2015-10-24 15:58:35 - feed 0|5000_start
+2015-10-24 15:58:35 - count 375
+2015-10-24 15:58:35 - feed 0|5000_ready
+2015-10-24 15:58:35 - start products part#0|6000
+2015-10-24 15:58:36 - sitemap_start-----------------------
+2015-10-24 15:58:36 - base_start
+2015-10-24 15:58:36 - --categories set start--
+2015-10-24 15:58:36 - --categories set end--
+2015-10-24 15:58:36 - manufacturer disabled
+2015-10-24 15:58:36 - --information set start--
+2015-10-24 15:58:36 - --information set end--
+2015-10-24 15:58:36 - --information set start--
+2015-10-24 15:58:36 - --information set end--
+2015-10-24 15:58:36 - base_end
+2015-10-24 15:58:36 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 15:58:36 - total time: 0.12498092651367
+2015-10-24 15:58:36 - end product part #0
+2015-10-24 16:10:30 - start products part #0
+2015-10-24 16:10:30 - start products part#0|0
+2015-10-24 16:10:30 - feed 0|0_start
+2015-10-24 16:10:32 - count 1000
+2015-10-24 16:10:32 - feed 0|0_ready
+2015-10-24 16:10:37 - start products part#0|1000
+2015-10-24 16:10:37 - feed 0|1000_start
+2015-10-24 16:10:40 - count 1000
+2015-10-24 16:10:40 - feed 0|1000_ready
+2015-10-24 16:10:40 - start products part#0|2000
+2015-10-24 16:10:40 - feed 0|2000_start
+2015-10-24 16:10:43 - count 1000
+2015-10-24 16:10:43 - feed 0|2000_ready
+2015-10-24 16:10:43 - start products part#0|3000
+2015-10-24 16:10:43 - feed 0|3000_start
+2015-10-24 16:10:47 - count 1000
+2015-10-24 16:10:47 - feed 0|3000_ready
+2015-10-24 16:10:47 - start products part#0|4000
+2015-10-24 16:10:47 - feed 0|4000_start
+2015-10-24 16:10:51 - count 1000
+2015-10-24 16:10:51 - feed 0|4000_ready
+2015-10-24 16:10:51 - start products part#0|5000
+2015-10-24 16:10:51 - feed 0|5000_start
+2015-10-24 16:10:54 - count 375
+2015-10-24 16:10:54 - feed 0|5000_ready
+2015-10-24 16:10:54 - start products part#0|6000
+2015-10-24 16:10:54 - sitemap_start-----------------------
+2015-10-24 16:10:54 - base_start
+2015-10-24 16:10:54 - --categories set start--
+2015-10-24 16:10:54 - --categories set end--
+2015-10-24 16:10:54 - manufacturer disabled
+2015-10-24 16:10:54 - --information set start--
+2015-10-24 16:10:54 - --information set end--
+2015-10-24 16:10:54 - --information set start--
+2015-10-24 16:10:54 - --information set end--
+2015-10-24 16:10:54 - base_end
+2015-10-24 16:10:54 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 16:10:54 - total time: 0.19399905204773
+2015-10-24 16:10:54 - end product part #0
+2015-10-24 16:12:17 - start products part #0
+2015-10-24 16:12:18 - start products part#0|0
+2015-10-24 16:12:18 - feed 0|0_start
+2015-10-24 16:12:19 - count 1000
+2015-10-24 16:12:19 - feed 0|0_ready
+2015-10-24 16:12:19 - start products part#0|1000
+2015-10-24 16:12:19 - feed 0|1000_start
+2015-10-24 16:12:20 - count 1000
+2015-10-24 16:12:20 - feed 0|1000_ready
+2015-10-24 16:12:20 - start products part#0|2000
+2015-10-24 16:12:20 - feed 0|2000_start
+2015-10-24 16:12:23 - count 1000
+2015-10-24 16:12:23 - feed 0|2000_ready
+2015-10-24 16:12:24 - start products part#0|3000
+2015-10-24 16:12:24 - feed 0|3000_start
+2015-10-24 16:12:26 - count 1000
+2015-10-24 16:12:26 - feed 0|3000_ready
+2015-10-24 16:12:26 - start products part#0|4000
+2015-10-24 16:12:26 - feed 0|4000_start
+2015-10-24 16:12:29 - count 1000
+2015-10-24 16:12:29 - feed 0|4000_ready
+2015-10-24 16:12:29 - start products part#0|5000
+2015-10-24 16:12:29 - feed 0|5000_start
+2015-10-24 16:12:31 - count 375
+2015-10-24 16:12:31 - feed 0|5000_ready
+2015-10-24 16:12:31 - start products part#0|6000
+2015-10-24 16:12:31 - sitemap_start-----------------------
+2015-10-24 16:12:31 - base_start
+2015-10-24 16:12:31 - --categories set start--
+2015-10-24 16:12:31 - --categories set end--
+2015-10-24 16:12:31 - manufacturer disabled
+2015-10-24 16:12:31 - --information set start--
+2015-10-24 16:12:31 - --information set end--
+2015-10-24 16:12:31 - --information set start--
+2015-10-24 16:12:31 - --information set end--
+2015-10-24 16:12:31 - base_end
+2015-10-24 16:12:31 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 16:12:31 - total time: 0.2103271484375
+2015-10-24 16:12:31 - end product part #0
+2015-10-24 16:13:01 - start products part #0
+2015-10-24 16:13:02 - start products part#0|0
+2015-10-24 16:13:02 - feed 0|0_start
+2015-10-24 16:13:02 - count 1000
+2015-10-24 16:13:02 - feed 0|0_ready
+2015-10-24 16:13:02 - start products part#0|1000
+2015-10-24 16:13:02 - feed 0|1000_start
+2015-10-24 16:13:03 - count 1000
+2015-10-24 16:13:03 - feed 0|1000_ready
+2015-10-24 16:13:03 - start products part#0|2000
+2015-10-24 16:13:03 - feed 0|2000_start
+2015-10-24 16:13:03 - count 1000
+2015-10-24 16:13:03 - feed 0|2000_ready
+2015-10-24 16:13:04 - start products part#0|3000
+2015-10-24 16:13:04 - feed 0|3000_start
+2015-10-24 16:13:04 - count 1000
+2015-10-24 16:13:04 - feed 0|3000_ready
+2015-10-24 16:13:04 - start products part#0|4000
+2015-10-24 16:13:04 - feed 0|4000_start
+2015-10-24 16:13:05 - count 1000
+2015-10-24 16:13:05 - feed 0|4000_ready
+2015-10-24 16:13:05 - start products part#0|5000
+2015-10-24 16:13:05 - feed 0|5000_start
+2015-10-24 16:13:05 - count 375
+2015-10-24 16:13:05 - feed 0|5000_ready
+2015-10-24 16:13:06 - start products part#0|6000
+2015-10-24 16:13:06 - end product part #0
+2015-10-24 16:13:06 - sitemap_start-----------------------
+2015-10-24 16:13:06 - base_start
+2015-10-24 16:13:06 - --categories set start--
+2015-10-24 16:13:06 - --categories set end--
+2015-10-24 16:13:06 - manufacturer disabled
+2015-10-24 16:13:06 - --information set start--
+2015-10-24 16:13:06 - --information set end--
+2015-10-24 16:13:06 - --information set start--
+2015-10-24 16:13:06 - --information set end--
+2015-10-24 16:13:06 - base_end
+2015-10-24 16:13:06 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 16:13:06 - total time: 0.096816062927246
+2015-10-24 16:14:38 - start products part #0
+2015-10-24 16:14:39 - start products part#0|0
+2015-10-24 16:14:39 - feed 0|0_start
+2015-10-24 16:14:40 - count 1000
+2015-10-24 16:14:40 - feed 0|0_ready
+2015-10-24 16:14:40 - start products part#0|1000
+2015-10-24 16:14:40 - feed 0|1000_start
+2015-10-24 16:14:41 - count 1000
+2015-10-24 16:14:41 - feed 0|1000_ready
+2015-10-24 16:14:41 - start products part#0|2000
+2015-10-24 16:14:41 - feed 0|2000_start
+2015-10-24 16:14:42 - count 1000
+2015-10-24 16:14:42 - feed 0|2000_ready
+2015-10-24 16:14:42 - start products part#0|3000
+2015-10-24 16:14:42 - feed 0|3000_start
+2015-10-24 16:14:43 - count 1000
+2015-10-24 16:14:43 - feed 0|3000_ready
+2015-10-24 16:14:43 - start products part#0|4000
+2015-10-24 16:14:43 - feed 0|4000_start
+2015-10-24 16:14:44 - count 1000
+2015-10-24 16:14:44 - feed 0|4000_ready
+2015-10-24 16:14:44 - start products part#0|5000
+2015-10-24 16:14:44 - feed 0|5000_start
+2015-10-24 16:14:44 - count 375
+2015-10-24 16:14:44 - feed 0|5000_ready
+2015-10-24 16:14:45 - start products part#0|6000
+2015-10-24 16:14:45 - sitemap_start-----------------------
+2015-10-24 16:14:45 - base_start
+2015-10-24 16:14:45 - --categories set start--
+2015-10-24 16:14:45 - --categories set end--
+2015-10-24 16:14:45 - manufacturer disabled
+2015-10-24 16:14:45 - --information set start--
+2015-10-24 16:14:45 - --information set end--
+2015-10-24 16:14:45 - base_end
+2015-10-24 16:14:45 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-24 16:14:45 - total time: 0.14900302886963
+2015-10-24 16:14:45 - end product part #0
+2015-10-26 9:58:40 - start products part #0
+2015-10-26 9:58:40 - start products part#0|0
+2015-10-26 9:58:40 - feed 0|0_start
+2015-10-26 9:58:42 - count 1000
+2015-10-26 9:58:42 - feed 0|0_ready
+2015-10-26 9:58:42 - start products part#0|1000
+2015-10-26 9:58:42 - feed 0|1000_start
+2015-10-26 9:58:43 - count 1000
+2015-10-26 9:58:43 - feed 0|1000_ready
+2015-10-26 9:58:44 - start products part#0|2000
+2015-10-26 9:58:44 - feed 0|2000_start
+2015-10-26 9:58:46 - count 1000
+2015-10-26 9:58:46 - feed 0|2000_ready
+2015-10-26 9:58:46 - start products part#0|3000
+2015-10-26 9:58:46 - feed 0|3000_start
+2015-10-26 9:58:48 - count 1000
+2015-10-26 9:58:48 - feed 0|3000_ready
+2015-10-26 9:58:49 - start products part#0|4000
+2015-10-26 9:58:49 - feed 0|4000_start
+2015-10-26 9:58:52 - count 1000
+2015-10-26 9:58:52 - feed 0|4000_ready
+2015-10-26 9:58:52 - start products part#0|5000
+2015-10-26 9:58:52 - feed 0|5000_start
+2015-10-26 9:58:54 - count 375
+2015-10-26 9:58:54 - feed 0|5000_ready
+2015-10-26 9:58:54 - start products part#0|6000
+2015-10-26 9:58:54 - end product part #0
+2015-10-26 9:58:54 - sitemap_start-----------------------
+2015-10-26 9:58:54 - base_start
+2015-10-26 9:58:54 - --categories set start--
+2015-10-26 9:58:54 - --categories set end--
+2015-10-26 9:58:54 - manufacturer disabled
+2015-10-26 9:58:54 - --information set start--
+2015-10-26 9:58:54 - --information set end--
+2015-10-26 9:58:54 - base_end
+2015-10-26 9:58:54 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-26 9:58:54 - total time: 0.27753806114197
+2015-10-26 23:56:26 - start products part #0
+2015-10-26 23:56:26 - start products part#0|0
+2015-10-26 23:56:26 - feed 0|0_start
+2015-10-26 23:56:28 - count 1000
+2015-10-26 23:56:28 - feed 0|0_ready
+2015-10-26 23:56:28 - start products part#0|1000
+2015-10-26 23:56:28 - feed 0|1000_start
+2015-10-26 23:56:29 - count 1000
+2015-10-26 23:56:29 - feed 0|1000_ready
+2015-10-26 23:56:30 - start products part#0|2000
+2015-10-26 23:56:30 - feed 0|2000_start
+2015-10-26 23:56:31 - count 1000
+2015-10-26 23:56:31 - feed 0|2000_ready
+2015-10-26 23:56:31 - start products part#0|3000
+2015-10-26 23:56:31 - feed 0|3000_start
+2015-10-26 23:56:32 - count 1000
+2015-10-26 23:56:32 - feed 0|3000_ready
+2015-10-26 23:56:33 - start products part#0|4000
+2015-10-26 23:56:33 - feed 0|4000_start
+2015-10-26 23:56:34 - count 1000
+2015-10-26 23:56:34 - feed 0|4000_ready
+2015-10-26 23:56:35 - start products part#0|5000
+2015-10-26 23:56:35 - feed 0|5000_start
+2015-10-26 23:56:36 - count 372
+2015-10-26 23:56:36 - feed 0|5000_ready
+2015-10-26 23:56:36 - start products part#0|6000
+2015-10-26 23:56:36 - sitemap_start-----------------------
+2015-10-26 23:56:36 - base_start
+2015-10-26 23:56:36 - --categories set start--
+2015-10-26 23:56:36 - --categories set end--
+2015-10-26 23:56:36 - manufacturer disabled
+2015-10-26 23:56:36 - --information set start--
+2015-10-26 23:56:36 - --information set end--
+2015-10-26 23:56:36 - base_end
+2015-10-26 23:56:36 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-26 23:56:36 - total time: 0.1963050365448
+2015-10-26 23:56:37 - end product part #0
+2015-10-26 23:58:07 - start products part #0
+2015-10-26 23:58:07 - start products part#0|0
+2015-10-26 23:58:07 - feed 0|0_start
+2015-10-26 23:58:08 - count 1000
+2015-10-26 23:58:08 - feed 0|0_ready
+2015-10-26 23:58:08 - start products part#0|1000
+2015-10-26 23:58:08 - feed 0|1000_start
+2015-10-26 23:58:08 - count 1000
+2015-10-26 23:58:08 - feed 0|1000_ready
+2015-10-26 23:58:08 - start products part#0|2000
+2015-10-26 23:58:08 - feed 0|2000_start
+2015-10-26 23:58:09 - count 1000
+2015-10-26 23:58:09 - feed 0|2000_ready
+2015-10-26 23:58:09 - start products part#0|3000
+2015-10-26 23:58:09 - feed 0|3000_start
+2015-10-26 23:58:10 - count 1000
+2015-10-26 23:58:10 - feed 0|3000_ready
+2015-10-26 23:58:10 - start products part#0|4000
+2015-10-26 23:58:10 - feed 0|4000_start
+2015-10-26 23:58:10 - count 1000
+2015-10-26 23:58:10 - feed 0|4000_ready
+2015-10-26 23:58:10 - start products part#0|5000
+2015-10-26 23:58:11 - feed 0|5000_start
+2015-10-26 23:58:11 - count 372
+2015-10-26 23:58:11 - feed 0|5000_ready
+2015-10-26 23:58:11 - start products part#0|6000
+2015-10-26 23:58:11 - sitemap_start-----------------------
+2015-10-26 23:58:11 - base_start
+2015-10-26 23:58:11 - --categories set start--
+2015-10-26 23:58:11 - --categories set end--
+2015-10-26 23:58:11 - manufacturer disabled
+2015-10-26 23:58:11 - --information set start--
+2015-10-26 23:58:11 - --information set end--
+2015-10-26 23:58:11 - base_end
+2015-10-26 23:58:11 - sitemap_end | limit:50000 | gzip_level:0
+2015-10-26 23:58:11 - total time: 0.088068008422852
+2015-10-26 23:58:12 - end product part #0
+2015-11-27 20:32:28 - start products part #0
+2015-11-27 20:32:28 - start products part#0|0
+2015-11-27 20:32:28 - feed 0|0_start
+2015-11-27 20:32:29 - count 1000
+2015-11-27 20:32:29 - feed 0|0_ready
+2015-11-27 20:32:29 - start products part#0|1000
+2015-11-27 20:32:29 - feed 0|1000_start
+2015-11-27 20:32:31 - count 1000
+2015-11-27 20:32:31 - feed 0|1000_ready
+2015-11-27 20:32:31 - start products part#0|2000
+2015-11-27 20:32:31 - feed 0|2000_start
+2015-11-27 20:32:33 - count 1000
+2015-11-27 20:32:33 - feed 0|2000_ready
+2015-11-27 20:32:39 - start products part#0|3000
+2015-11-27 20:32:39 - feed 0|3000_start
+2015-11-27 20:32:42 - count 1000
+2015-11-27 20:32:42 - feed 0|3000_ready
+2015-11-27 20:32:43 - start products part#0|4000
+2015-11-27 20:32:43 - feed 0|4000_start
+2015-11-27 20:32:47 - count 1000
+2015-11-27 20:32:47 - feed 0|4000_ready
+2015-11-27 20:32:47 - start products part#0|5000
+2015-11-27 20:32:47 - feed 0|5000_start
+2015-11-27 20:32:49 - count 554
+2015-11-27 20:32:49 - feed 0|5000_ready
+2015-11-27 20:32:49 - start products part#0|6000
+2015-11-27 20:32:49 - end product part #0
+2015-11-27 20:32:49 - sitemap_start-----------------------
+2015-11-27 20:32:49 - base_start
+2015-11-27 20:32:49 - --categories set start--
+2015-11-27 20:32:49 - --categories set end--
+2015-11-27 20:32:49 - manufacturer disabled
+2015-11-27 20:32:49 - --information set start--
+2015-11-27 20:32:49 - --information set end--
+2015-11-27 20:32:49 - base_end
+2015-11-27 20:32:49 - sitemap_end | limit:50000 | gzip_level:0
+2015-11-27 20:32:49 - total time: 0.1461079120636
+2015-11-27 20:32:58 - start products part #0
+2015-11-27 20:32:59 - start products part#0|0
+2015-11-27 20:32:59 - feed 0|0_start
+2015-11-27 20:32:59 - count 1000
+2015-11-27 20:32:59 - feed 0|0_ready
+2015-11-27 20:32:59 - start products part#0|1000
+2015-11-27 20:32:59 - feed 0|1000_start
+2015-11-27 20:33:00 - count 1000
+2015-11-27 20:33:00 - feed 0|1000_ready
+2015-11-27 20:33:00 - start products part#0|2000
+2015-11-27 20:33:00 - feed 0|2000_start
+2015-11-27 20:33:00 - count 1000
+2015-11-27 20:33:00 - feed 0|2000_ready
+2015-11-27 20:33:00 - start products part#0|3000
+2015-11-27 20:33:00 - feed 0|3000_start
+2015-11-27 20:33:01 - count 1000
+2015-11-27 20:33:01 - feed 0|3000_ready
+2015-11-27 20:33:01 - start products part#0|4000
+2015-11-27 20:33:01 - feed 0|4000_start
+2015-11-27 20:33:02 - count 1000
+2015-11-27 20:33:02 - feed 0|4000_ready
+2015-11-27 20:33:02 - start products part#0|5000
+2015-11-27 20:33:02 - feed 0|5000_start
+2015-11-27 20:33:02 - count 554
+2015-11-27 20:33:02 - feed 0|5000_ready
+2015-11-27 20:33:02 - start products part#0|6000
+2015-11-27 20:33:02 - end product part #0
+2015-11-27 20:33:02 - sitemap_start-----------------------
+2015-11-27 20:33:02 - base_start
+2015-11-27 20:33:02 - --categories set start--
+2015-11-27 20:33:02 - --categories set end--
+2015-11-27 20:33:02 - manufacturer disabled
+2015-11-27 20:33:02 - --information set start--
+2015-11-27 20:33:02 - --information set end--
+2015-11-27 20:33:02 - base_end
+2015-11-27 20:33:02 - sitemap_end | limit:50000 | gzip_level:0
+2015-11-27 20:33:02 - total time: 0.091993808746338
+2015-12-14 17:04:32 - start products part #0
+2015-12-14 17:04:32 - start products part#0|0
+2015-12-14 17:04:32 - feed 0|0_start
+2015-12-14 17:04:33 - count 1000
+2015-12-14 17:04:33 - feed 0|0_ready
+2015-12-14 17:04:33 - start products part#0|1000
+2015-12-14 17:04:33 - feed 0|1000_start
+2015-12-14 17:04:34 - count 1000
+2015-12-14 17:04:34 - feed 0|1000_ready
+2015-12-14 17:04:34 - start products part#0|2000
+2015-12-14 17:04:34 - feed 0|2000_start
+2015-12-14 17:04:36 - count 1000
+2015-12-14 17:04:36 - feed 0|2000_ready
+2015-12-14 17:04:36 - start products part#0|3000
+2015-12-14 17:04:36 - feed 0|3000_start
+2015-12-14 17:04:38 - count 1000
+2015-12-14 17:04:38 - feed 0|3000_ready
+2015-12-14 17:04:42 - start products part#0|4000
+2015-12-14 17:04:42 - feed 0|4000_start
+2015-12-14 17:04:45 - count 1000
+2015-12-14 17:04:45 - feed 0|4000_ready
+2015-12-14 17:04:45 - start products part#0|5000
+2015-12-14 17:04:45 - feed 0|5000_start
+2015-12-14 17:04:47 - count 752
+2015-12-14 17:04:47 - feed 0|5000_ready
+2015-12-14 17:04:47 - start products part#0|6000
+2015-12-14 17:04:47 - sitemap_start-----------------------
+2015-12-14 17:04:47 - base_start
+2015-12-14 17:04:47 - --categories set start--
+2015-12-14 17:04:47 - --categories set end--
+2015-12-14 17:04:47 - manufacturer disabled
+2015-12-14 17:04:47 - --information set start--
+2015-12-14 17:04:47 - --information set end--
+2015-12-14 17:04:47 - base_end
+2015-12-14 17:04:47 - sitemap_end | limit:50000 | gzip_level:0
+2015-12-14 17:04:47 - total time: 0.20156002044678
+2015-12-14 17:04:48 - end product part #0
+2015-12-31 11:58:02 - start products part #0
+2015-12-31 11:58:02 - start products part#0|0
+2015-12-31 11:58:02 - feed 0|0_start
+2015-12-31 11:58:02 - count 1000
+2015-12-31 11:58:02 - feed 0|0_ready
+2015-12-31 11:58:02 - start products part#0|1000
+2015-12-31 11:58:02 - feed 0|1000_start
+2015-12-31 11:58:03 - count 1000
+2015-12-31 11:58:03 - feed 0|1000_ready
+2015-12-31 11:58:03 - start products part#0|2000
+2015-12-31 11:58:03 - feed 0|2000_start
+2015-12-31 11:58:05 - count 1000
+2015-12-31 11:58:05 - feed 0|2000_ready
+2015-12-31 11:58:05 - start products part#0|3000
+2015-12-31 11:58:05 - feed 0|3000_start
+2015-12-31 11:58:06 - count 1000
+2015-12-31 11:58:06 - feed 0|3000_ready
+2015-12-31 11:58:06 - start products part#0|4000
+2015-12-31 11:58:06 - feed 0|4000_start
+2015-12-31 11:58:08 - count 1000
+2015-12-31 11:58:08 - feed 0|4000_ready
+2015-12-31 11:58:08 - start products part#0|5000
+2015-12-31 11:58:08 - feed 0|5000_start
+2015-12-31 11:58:10 - count 783
+2015-12-31 11:58:10 - feed 0|5000_ready
+2015-12-31 11:58:10 - start products part#0|6000
+2015-12-31 11:58:10 - end product part #0
+2015-12-31 11:58:10 - sitemap_start-----------------------
+2015-12-31 11:58:10 - base_start
+2015-12-31 11:58:10 - --categories set start--
+2015-12-31 11:58:10 - --categories set end--
+2015-12-31 11:58:10 - manufacturer disabled
+2015-12-31 11:58:10 - --information set start--
+2015-12-31 11:58:10 - --information set end--
+2015-12-31 11:58:10 - base_end
+2015-12-31 11:58:10 - sitemap_end | limit:50000 | gzip_level:0
+2015-12-31 11:58:10 - total time: 0.1361300945282
+2016-01-05 17:30:06 - start products part #0
+2016-01-05 17:30:06 - start products part#0|0
+2016-01-05 17:30:06 - feed 0|0_start
+2016-01-05 17:30:07 - count 1000
+2016-01-05 17:30:07 - feed 0|0_ready
+2016-01-05 17:30:07 - start products part#0|1000
+2016-01-05 17:30:07 - feed 0|1000_start
+2016-01-05 17:30:08 - count 1000
+2016-01-05 17:30:08 - feed 0|1000_ready
+2016-01-05 17:30:08 - start products part#0|2000
+2016-01-05 17:30:08 - feed 0|2000_start
+2016-01-05 17:30:09 - count 1000
+2016-01-05 17:30:09 - feed 0|2000_ready
+2016-01-05 17:30:09 - start products part#0|3000
+2016-01-05 17:30:09 - feed 0|3000_start
+2016-01-05 17:30:10 - count 1000
+2016-01-05 17:30:10 - feed 0|3000_ready
+2016-01-05 17:30:10 - start products part#0|4000
+2016-01-05 17:30:10 - feed 0|4000_start
+2016-01-05 17:30:12 - count 1000
+2016-01-05 17:30:12 - feed 0|4000_ready
+2016-01-05 17:30:12 - start products part#0|5000
+2016-01-05 17:30:12 - feed 0|5000_start
+2016-01-05 17:30:13 - count 813
+2016-01-05 17:30:13 - feed 0|5000_ready
+2016-01-05 17:30:13 - start products part#0|6000
+2016-01-05 17:30:14 - end product part #0
+2016-01-05 17:30:14 - sitemap_start-----------------------
+2016-01-05 17:30:14 - base_start
+2016-01-05 17:30:14 - --categories set start--
+2016-01-05 17:30:14 - --categories set end--
+2016-01-05 17:30:14 - manufacturer disabled
+2016-01-05 17:30:14 - --information set start--
+2016-01-05 17:30:14 - --information set end--
+2016-01-05 17:30:14 - base_end
+2016-01-05 17:30:14 - sitemap_end | limit:50000 | gzip_level:0
+2016-01-05 17:30:14 - total time: 0.17349791526794

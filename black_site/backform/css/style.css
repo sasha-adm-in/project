@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sidebarForm {
+}
+#loadBar {
+	position: absolute;
+	left: 50%;
+	margin: -42px 0 0 -119px;
+	width: 250px;
+}
+
+#loadBar ul{
+	box-shadow: 0 3px 10px #ccc;
+}
+
+#cor5 {
+}
+
+.sidebarForm h4 {
+}
+
+.sidebarForm label {
+		font: 12px Verdana;
+		color: #333;
+		padding: 10px;
+}
+
+.sidebarForm .input { 
+		width: 280px;
+		height: 32px;
+		overflow: hidden;
+		background: white;
+		border: solid 1px #BBBBBB;
+		margin: 5px 0 10px 10px;
+}
+
+.sidebarForm .input input {
+		width: 280px;
+		height: 32px;
+		background: white;
+		margin: -3px 0 0 -5px;
+		padding: 0px 8px;
+		border: none;
+		background: transparent;
+		padding: 2px 12px;
+}
+
+#posPhone {
+		margin: -3px 0 0 7px;
+		background:#fff url(../38.png) no-repeat center left;
+		padding-left:25px;
+}
+
+.sidebarForm .textarea {
+		height: 70px;
+		width: 280px;
+		overflow: hidden;
+		background: white;
+		border: solid 1px #BBBBBB;
+		margin: 5px 0 10px 10px;
+}
+
+.sidebarForm .textarea textarea {
+		width: 270px;
+		height: 66px;
+		background: white;
+		border: none;
+		resize:none;
+		padding: 2px 7px;
+}
+
+.sidebarForm button {
+		border: 0px #ccc solid;
+		cursor: pointer;
+}
+.sidebarForm button:hover {
+		background-color: #b1d753;
+}

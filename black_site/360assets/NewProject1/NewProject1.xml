@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/47.png" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#E3E3E3" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" progressLoopColor="#e8e8e8" progressNumColor="#949494" fullScreenBackColor="#FFFFFF" />
+    <control dragSpeed="0.13" maxZoom="200" maxZoomFullScreen="200" fullScreenStretch="100" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="false" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" />
+    <rotation firstImage="46" rotate="once" rotatePeriod="1" bounce="false" rotateDirection="1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" />
+  </settings>
+  <hotspots>
+    <hotspot id="spot1" absolutePosition="false" renderMode="1" className="WebRotate360.ImageRotator.Html5HotspotPresenter" indicatorImage="spot_shape7_2.png" offsetX="50" offsetY="20">
+      <spotinfo>
+        <cdata><![CDATA[<b>INFORMATION</b><br>
+Good SPOT]]></cdata>
+      </spotinfo>
+    </hotspot>
+  </hotspots>
+  <images highresWidth="1000" highresHeight="447">
+    <image src="images/1.png">
+      <highres src="images/highres/1.png" />
+    </image>
+    <image src="images/2.png">
+      <highres src="images/highres/2.png" />
+    </image>
+    <image src="images/3.png">
+      <highres src="images/highres/3.png" />
+    </image>
+    <image src="images/4.png">
+      <highres src="images/highres/4.png" />
+    </image>
+    <image src="images/5.png">
+      <highres src="images/highres/5.png" />
+    </image>
+    <image src="images/6.png">
+      <highres src="images/highres/6.png" />
+    </image>
+    <image src="images/7.png">
+      <highres src="images/highres/7.png" />
+    </image>
+    <image src="images/8.png">
+      <highres src="images/highres/8.png" />
+    </image>
+    <image src="images/9.png">
+      <highres src="images/highres/9.png" />
+    </image>
+    <image src="images/10.png">
+      <highres src="images/highres/10.png" />
+    </image>
+    <image src="images/11.png">
+      <highres src="images/highres/11.png" />
+    </image>
+    <image src="images/12.png">
+      <highres src="images/highres/12.png" />
+    </image>
+    <image src="images/13.png">
+      <highres src="images/highres/13.png" />
+    </image>
+    <image src="images/14.png">
+      <highres src="images/highres/14.png" />
+    </image>
+    <image src="images/15.png">
+      <highres src="images/highres/15.png" />
+    </image>
+    <image src="images/16.png">
+      <highres src="images/highres/16.png" />
+    </image>
+    <image src="images/17.png">
+      <highres src="images/highres/17.png" />
+    </image>
+    <image src="images/18.png">
+      <highres src="images/highres/18.png" />
+    </image>
+    <image src="images/19.png">
+      <highres src="images/highres/19.png" />
+    </image>
+    <image src="images/20.png">
+      <highres src="images/highres/20.png" />
+    </image>
+    <image src="images/21.png">
+      <highres src="images/highres/21.png" />
+    </image>
+    <image src="images/22.png">
+      <highres src="images/highres/22.png" />
+    </image>
+    <image src="images/23.png">
+      <highres src="images/highres/23.png" />
+    </image>
+    <image src="images/24.png">
+      <highres src="images/highres/24.png" />
+    </image>
+    <image src="images/25.png">
+      <highres src="images/highres/25.png" />
+    </image>
+    <image src="images/26.png">
+      <highres src="images/highres/26.png" />
+    </image>
+    <image src="images/27.png">
+      <highres src="images/highres/27.png" />
+    </image>
+    <image src="images/28.png">
+      <highres src="images/highres/28.png" />
+    </image>
+    <image src="images/29.png">
+      <highres src="images/highres/29.png" />
+    </image>
+    <image src="images/30.png">
+      <highres src="images/highres/30.png" />
+    </image>
+    <image src="images/31.png">
+      <highres src="images/highres/31.png" />
+    </image>
+    <image src="images/32.png">
+      <highres src="images/highres/32.png" />
+    </image>
+    <image src="images/33.png">
+      <highres src="images/highres/33.png" />
+    </image>
+    <image src="images/34.png">
+      <highres src="images/highres/34.png" />
+    </image>
+    <image src="images/35.png">
+      <highres src="images/highres/35.png" />
+    </image>
+    <image src="images/36.png">
+      <highres src="images/highres/36.png" />
+    </image>
+    <image src="images/37.png">
+      <highres src="images/highres/37.png" />
+    </image>
+    <image src="images/38.png">
+      <highres src="images/highres/38.png" />
+    </image>
+    <image src="images/39.png">
+      <highres src="images/highres/39.png" />
+    </image>
+    <image src="images/40.png">
+      <hotspot source="spot1" offsetX="112" offsetY="83" />
+      <highres src="images/highres/40.png" />
+    </image>
+    <image src="images/41.png">
+      <hotspot source="spot1" offsetX="128" offsetY="88" />
+      <highres src="images/highres/41.png" />
+    </image>
+    <image src="images/42.png">
+      <hotspot source="spot1" offsetX="143" offsetY="92" />
+      <highres src="images/highres/42.png" />
+    </image>
+    <image src="images/43.png">
+      <hotspot source="spot1" offsetX="163" offsetY="94" />
+      <highres src="images/highres/43.png" />
+    </image>
+    <image src="images/44.png">
+      <hotspot source="spot1" offsetX="183" offsetY="95" />
+      <highres src="images/highres/44.png" />
+    </image>
+    <image src="images/45.png">
+      <hotspot source="spot1" offsetX="209" offsetY="98" />
+      <highres src="images/highres/45.png" />
+    </image>
+    <image src="images/46.png">
+      <hotspot source="spot1" offsetX="235" offsetY="100" />
+      <highres src="images/highres/46.png" />
+    </image>
+    <image src="images/47.png">
+      <hotspot source="spot1" offsetX="256" offsetY="101" />
+      <highres src="images/highres/47.png" />
+    </image>
+    <image src="images/48.png">
+      <highres src="images/highres/48.png" />
+    </image>
+    <image src="images/49.png">
+      <highres src="images/highres/49.png" />
+    </image>
+    <image src="images/50.png">
+      <highres src="images/highres/50.png" />
+    </image>
+    <image src="images/51.png">
+      <highres src="images/highres/51.png" />
+    </image>
+    <image src="images/52.png">
+      <highres src="images/highres/52.png" />
+    </image>
+  </images>
+</config>

@@ -1,0 +1,89 @@
+/* Fwslider Necessary Styles */ 
+.fwslider {
+	position: relative;
+	margin: -2px 0;
+	overflow: hidden;
+	padding: 40px 0 80px;
+	background: url(../images/gradient_squares.png) repeat scroll 0 0 #f5f5f5;
+	box-shadow: 0 0 3px rgba(0,0,0,0.09) inset;
+}
+.fwslider ul {
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+	list-style-type: none;
+}
+.fwslider ul li {
+	-webkit-transform: translateZ(0);
+	-moz-transform: translateZ(0);
+	transform: translateZ(0);
+	float: left;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.fwslider ul li > a,
+.fwslider ul li > div {
+	display: block;
+	text-align: center;
+	outline: none;
+}
+.fwslider ul li > a img {
+	border: none;
+	display: block;
+	margin: 0 auto;
+	max-width: 75%;
+}
+
+/* Direction Nav */
+.fwslider nav span {
+	position: absolute;
+	top: 50%;
+	width: 50px;
+	height: 100px;
+	background: url(../images/sprite.png) no-repeat scroll 0 0 #444;
+	margin-top: -50px;
+	cursor: pointer;
+}
+.fwslider nav span:hover {
+}
+.fwslider nav span.cbp-fwnext {
+	right: 0px;
+	border-bottom-left-radius: 3px;
+	border-top-left-radius: 3px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+	background-position: -50px -215px;
+}
+.fwslider nav span.cbp-fwprev {
+	left: 0px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+	background-position: 0 -215px;
+}
+
+/* Control Nav */
+.cbp-fwdots {
+	position: absolute;
+	bottom: 20px;
+	white-space: nowrap;
+	text-align: center;
+	width: 100%;
+}
+.cbp-fwdots span {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background-color: #444;
+	border: 2px solid #444;
+	margin: 0 4px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.cbp-fwdots span:hover {
+}
+.cbp-fwdots span.cbp-fwcurrent {
+	background-color: transparent;
+}

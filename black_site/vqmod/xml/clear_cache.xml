@@ -1,0 +1,54 @@
+<modification>
+    <id>Clear Cache</id>
+    <version>0.1</version>
+    <vqmver>1.0.4</vqmver>
+    <author>Kyle Agronick</author>
+    <file name="admin/controller/common/home.php">
+	<operation error="log">
+		<search position="before"><![CDATA[
+		$this->data['entry_range'] = $this->language->get('entry_range');
+		]]></search>
+		<add><![CDATA[		$this->data['button_clear_cache'] = $this->language->get('button_clear_cache');]]></add>
+	</operation>
+	<operation error="log">
+		<search position="before"><![CDATA[
+		$file = DIR_CACHE . 'test';
+		]]></search>
+		<add><![CDATA[
+		$this->data['clear_cache'] = $this->url->link('common/home','token=' . $this->session->data['token'].'&clear_cache=true','SSL');
+		if(isset($this->request->get['clear_cache'])){
+			$iterator = new DirectoryIterator(DIR_CACHE);
+			foreach($iterator as $file){
+				if(!$file->isDot()){
+					unlink($file->getPathname());
+				}
+			}
+		}
+		]]></add>
+	</operation>
+    </file>
+    <file name="admin/language/english/common/home.php">
+	<operation error="log">
+		<search position="before"><![CDATA[// Error]]></search>
+		<add><![CDATA[// Button
+$_['button_clear_cache']                   = 'Clear System Cache';
+]]></add>
+	</operation>
+    </file>
+    <file name="admin/language/russian/common/home.php">
+	<operation error="log">
+		<search position="before"><![CDATA[// Error]]></search>
+		<add><![CDATA[// Button
+$_['button_clear_cache']                = 'Очистить кеш запросов к БД';
+]]></add>
+	</operation>
+    </file>
+    <file name="admin/view/template/common/home.tpl">
+	<operation error="log">
+		<search position="after"><![CDATA[
+		<h1><img src="view/image/home.png" alt="" /> <?php echo $heading_title; ?></h1>
+		]]></search>
+		<add><![CDATA[      <div class='buttons'><a href="<?php echo $clear_cache ?>" class="button"><?php echo $button_clear_cache ?></a></div>]]></add>
+	</operation>
+    </file>
+</modification>

@@ -1,0 +1,58 @@
+Jquery code
+$('ul.navbar-right:first li:nth-child(2) ').html('');
+$('ul.navbar-right:first li:nth-child(2) ').html(langmarkdata);
+
+Widget code
+<?php if (count($languages) > 1) { ?>
+<a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="javascript:void(0);">
+<?php echo $text_language; ?>
+<span class="caret"></span>
+</a>
+
+<!-- Language -->
+<ul class="dropdown-menu">
+
+<?php foreach ($languages as $language) { ?>
+	<li class="<?php if ($language['code'] == $language_code) { echo 'active'; } ?>">
+	<?php if ($language['code'] != $language_code) {  ?>
+	<a href="<?php echo $language['url']; ?>">
+	<?php } else { ?>
+	<a href="#" onclick="return false;">
+	<?php } ?>
+	<span>
+	<img src="image/flags/<?php echo $language['image']; ?>" alt="<?php echo $language['name']; ?>" title="<?php echo $language['name']; ?>" />
+	</span>
+	<?php echo $language['name']; ?>
+
+	</a>
+
+</li>
+<?php } ?>
+
+
+</ul>
+<!-- /Language -->
+<?php } ?>
+
+
+<script>
+$(document).ready(function() {
+	var lprefix = '<?php  echo $language_prefix; ?>';
+
+	$('form').each(function(index) {
+		var laction = $(this).attr('action');
+		if (typeof laction!='undefined') {
+		 if (typeof laction.value!='undefined') {
+			var llast = laction.value.length - 1;
+			if (llast != '/') {
+				laction = laction + '/';
+			}
+			var li = laction.indexOf( lprefix);
+			if (li < 0) {
+				$(this).attr('action', laction + lprefix);
+			}
+		 }
+		}
+	});
+});
+</script>

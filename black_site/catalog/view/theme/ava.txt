@@ -1,0 +1,56 @@
+<!-- $('.language').html(langmarkdata); -->
+<?php if (count($languages) > 1) { ?>
+
+<ul class="menu_body3">
+
+
+<form>
+  <div id="language">
+
+<?php foreach ($languages as $language) { ?>
+ <?php if ($language['code'] == $language_code) {  ?>
+  	<li class="alt"><a title="<?php echo $language['name']; ?>" href="<?php echo $language['url']; ?>#">
+
+  <?php echo $language['name']; ?>
+
+    </a></li>
+ <?php } ?>
+
+ <?php if ($language['code'] != $language_code) {  ?>
+  	<li><a title="<?php echo $language['name']; ?>" href="<?php echo $language['url']; ?>">
+
+  <?php echo $language['name']; ?>
+
+    </a></li>
+ <?php } ?>
+<?php } ?>
+
+
+</div>
+</form>
+</ul>
+
+
+<!-- /Language -->
+<?php } ?>
+<script>
+$(document).ready(function() {
+	var lprefix = '<?php  echo $language_prefix; ?>';
+
+	$('form').each(function(index) {
+		var laction = $(this).attr('action');
+		if (typeof laction!='undefined') {
+		 if (typeof laction.value!='undefined') {
+			var llast = laction.value.length - 1;
+			if (llast != '/') {
+				laction = laction + '/';
+			}
+			var li = laction.indexOf( lprefix);
+			if (li < 0) {
+				$(this).attr('action', laction + lprefix);
+			}
+		 }
+		}
+	});
+});
+</script>
